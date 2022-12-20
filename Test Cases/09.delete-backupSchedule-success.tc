@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>09.delete-backupSchedule-success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ec33800-9a79-42eb-ac25-9f0f8a56398d</testCaseGuid>
+</TestCaseEntity>

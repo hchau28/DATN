@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MongoDB</name>
+   <tag></tag>
+   <elementGuidId>5e925a7c-a446-4988-9761-716ac63bfed8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pane-engine']/div/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>61acd493-8406-4e3d-b543-7ed1ab85000d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>
+        border-top-left-radius-2xs
+        border-top-right-radius-2xs
+        border-bottom-solid
+        text-center
+        p-m
+       border-gray-200 border-width-bottom-1 border-bottom-solid border-width-bottom-1</value>
+      <webElementGuid>9a63214c-e9ce-4ecc-a106-3845eef6d07c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+            MongoDB
+           </value>
+      <webElementGuid>6bab8914-f3fc-452c-83f6-02f038bd6bfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pane-engine&quot;)/div[@class=&quot;select-database-engine el-row el-row--flex&quot;]/div[@class=&quot;mr-xs cursor-pointer&quot;]/div[@class=&quot;el-tooltip border-radius-2xs border-solid border-gray-200 border-width-1 focusing&quot;]/div[@class=&quot;border-top-left-radius-2xs
+        border-top-right-radius-2xs
+        border-bottom-solid
+        text-center
+        p-m
+       border-gray-200 border-width-bottom-1 border-bottom-solid border-width-bottom-1&quot;]</value>
+      <webElementGuid>dacbbcde-58ba-4d7a-8ba4-21ce1160505b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pane-engine']/div/div[3]/div/div</value>
+      <webElementGuid>3c66efc3-da7c-4cbd-a0b8-c0aab4adab77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn phiên bản'])[2]/following::div[5]</value>
+      <webElementGuid>64680735-ba95-4248-8e3b-b60bc46c83cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redis'])[1]/following::div[9]</value>
+      <webElementGuid>9dd36efc-57bd-4962-ad01-0623d423a144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn phiên bản'])[4]/preceding::div[3]</value>
+      <webElementGuid>fed58245-fa1e-4f8e-97cc-39c687737011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div/div</value>
+      <webElementGuid>a96056ac-71ad-4162-a285-b2d590c7d2d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 
+            MongoDB
+           ' or . = ' 
+            MongoDB
+           ')]</value>
+      <webElementGuid>8f015573-521a-4397-81c6-bff5dd8b1785</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

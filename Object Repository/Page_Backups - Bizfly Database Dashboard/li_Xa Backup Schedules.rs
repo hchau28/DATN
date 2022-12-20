@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Xa Backup Schedules</name>
+   <tag></tag>
+   <elementGuidId>44f86619-4f44-4f87-83a0-135edcb299ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.el-dropdown-menu__item.bf-dropdown-item.border-top-solid.border-width-top-1.border-top-gray-200</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dropdown-menu-747']/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a8f8c503-a629-43d2-9ef3-5b671f9eb7c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>aa93384e-fffa-48b0-ba39-7612f35c5ebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-dropdown-menu__item bf-dropdown-item border-top-solid border-width-top-1 border-top-gray-200</value>
+      <webElementGuid>b1c2c7fc-dcb8-4e76-bf7c-44e3b733a634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xóa Backup Schedules</value>
+      <webElementGuid>efa4c91d-12ea-4426-845c-d1dae1357cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-menu-747&quot;)/li[@class=&quot;el-dropdown-menu__item bf-dropdown-item border-top-solid border-width-top-1 border-top-gray-200&quot;]</value>
+      <webElementGuid>1ff620c4-afab-490b-b047-4274ad117b08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dropdown-menu-747']/li[2]</value>
+      <webElementGuid>980a9462-21cd-44f3-8041-5032163b166e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chi tiết'])[1]/following::li[1]</value>
+      <webElementGuid>8b414bdf-79b6-4bc6-b267-4f5f78b82220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::li[2]</value>
+      <webElementGuid>bb9ba52a-55df-4ffa-a2de-10fa4b790c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/ul/li[2]</value>
+      <webElementGuid>a56e51d4-e695-43b2-835a-782b7612cabe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Xóa Backup Schedules' or . = 'Xóa Backup Schedules')]</value>
+      <webElementGuid>c443b292-4a13-4041-829c-48ed6e5a9009</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

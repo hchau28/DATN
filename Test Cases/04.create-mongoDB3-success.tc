@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04.create-mongoDB3-success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7b9e4a7-ee8a-4eb5-8c08-537888a86db9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7b72fd21-6239-4950-af26-b554cfc6a330</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c557be9a-fbe0-40f4-95d6-60ef8254ebb3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>059e4658-b696-4221-a606-05824983c0f4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7b72fd21-6239-4950-af26-b554cfc6a330</id>
+      <masked>false</masked>
+      <name>nguongtang</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c557be9a-fbe0-40f4-95d6-60ef8254ebb3</id>
+      <masked>false</masked>
+      <name>gioihan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>059e4658-b696-4221-a606-05824983c0f4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

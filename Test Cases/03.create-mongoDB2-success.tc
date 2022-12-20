@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03.create-mongoDB2-success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f79033df-345b-4d47-acb2-13d7bbc6d437</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>04828339-f91a-41d5-b30d-b7299b827b0d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>04828339-f91a-41d5-b30d-b7299b827b0d</id>
+      <masked>false</masked>
+      <name>var1</name>
+   </variable>
+</TestCaseEntity>
