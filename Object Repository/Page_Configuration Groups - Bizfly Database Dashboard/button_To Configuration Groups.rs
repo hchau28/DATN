@@ -6,12 +6,12 @@
    <elementGuidId>8fcfc7c2-8613-4e83-bfbb-6664c6343e27</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.el-button.bf-button.el-button--primary.el-button--small</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.el-button.bf-button.el-button--primary.el-button--small</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>831fb41a-8070-4a74-a7a4-6b75b96d2220</webElementGuid>
+      <webElementGuid>94de2ab6-d696-4bbf-922c-ee6514c118fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>56c4d18e-4312-4a0a-8b06-d62fa379543b</webElementGuid>
+      <webElementGuid>944bbb9a-718a-402d-9f49-f541064cf7a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>el-button bf-button el-button--primary el-button--small</value>
-      <webElementGuid>edfa1bf2-21ec-454d-bd42-38b4410c6a67</webElementGuid>
+      <webElementGuid>83b3b78a-1b9f-45b8-9cb5-5fb7d475dc12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Tạo Configuration Groups </value>
-      <webElementGuid>8cb11782-58ae-4546-991a-28cf2e33de88</webElementGuid>
+      <webElementGuid>7f37d9d9-55c1-49da-b36b-fe09b47f01bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[@class=&quot;configuration&quot;]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__header&quot;]/div[@class=&quot;el-card__header__custom&quot;]/div[@class=&quot;w-100 el-row is-justify-space-between is-align-middle&quot;]/div[@class=&quot;el-row is-align-bottom el-row--flex w-100 flex-wrap&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;button-slot mt-xs&quot;]/div[1]/div[@class=&quot;el-row el-row--flex&quot;]/button[@class=&quot;el-button bf-button el-button--primary el-button--small&quot;]</value>
-      <webElementGuid>daf318f8-865e-47d1-a315-714b1245aa97</webElementGuid>
+      <webElementGuid>f5feadf7-fbc2-4f02-8b21-551610cea88c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[8]</value>
-      <webElementGuid>217c1776-ba0e-4486-bb4a-ac6a2115af4b</webElementGuid>
+      <webElementGuid>a2f691db-843d-4ba7-b5f4-106e10727304</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,23 +70,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/button</value>
-      <webElementGuid>693e65aa-f9c7-4509-b542-079fcfcf9938</webElementGuid>
+      <webElementGuid>93c53399-3e1e-482b-bec0-ded4ce4100a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='của 0'])[1]/following::button[2]</value>
-      <webElementGuid>932dd9d8-09e9-412c-8933-38cc0276737d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='của 1'])[1]/following::button[2]</value>
+      <webElementGuid>def0f064-a382-457f-8ba3-0733cc0cc8c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/following::button[4]</value>
-      <webElementGuid>1928b483-ba91-467f-a3b3-24050a736b74</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1)'])[1]/following::button[4]</value>
+      <webElementGuid>abf48e40-bcb4-4091-9c92-51c0e0b272a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên Configuration Group'])[1]/preceding::button[1]</value>
-      <webElementGuid>4c30be02-c81e-4ab2-ae69-34168c93366b</webElementGuid>
+      <webElementGuid>72916f04-bff8-46cb-9f06-e8ff903fbe24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div/button</value>
-      <webElementGuid>04145c95-1529-4a9e-97de-b63688dd98bd</webElementGuid>
+      <webElementGuid>6a77da5b-22b3-4df0-8660-f60a2707558a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' Tạo Configuration Groups ' or . = ' Tạo Configuration Groups ')]</value>
-      <webElementGuid>50ab959b-b4f5-485f-ab2a-38d83799dc3f</webElementGuid>
+      <webElementGuid>4c09e264-fd6b-4c77-8b00-9e25d45514fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

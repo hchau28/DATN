@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Thm mi</name>
    <tag></tag>
-   <elementGuidId>3dad9be4-b07d-4c22-9394-5e466724a62f</elementGuidId>
+   <elementGuidId>a727f55f-b82a-4833-8aa9-7849e422b8d1</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[5]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>button.el-button.bf-button.border-top-left-radius-0.border-bottom-left-radius-0.el-button--primary.el-button--default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f8522c78-7bd6-4df6-9a55-916edd2bd737</webElementGuid>
+      <webElementGuid>a0c3cb2c-8c96-41ed-bb20-0f1e09f5de54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cdb9437d-d6da-4402-adf3-44cfb8a41014</webElementGuid>
+      <webElementGuid>20238b6d-36ed-4a7e-b5c0-840bb5c8ada3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>el-button bf-button border-top-left-radius-0 border-bottom-left-radius-0 el-button--primary el-button--default</value>
-      <webElementGuid>90c26e1e-76a7-4e92-9891-2340593e4bb6</webElementGuid>
+      <webElementGuid>1dfd0c97-49e2-4031-8120-d57d9da8ec8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +46,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Thêm mới</value>
-      <webElementGuid>1adfca51-28e7-420c-ad04-68991f7a97ad</webElementGuid>
+      <webElementGuid>93791179-a1a7-4b1a-8267-737b4fbe37b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[@class=&quot;config-cdb&quot;]/div[@class=&quot;el-card is-never-shadow border in mt-l&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__footer&quot;]/div[1]/div[@class=&quot;el-row el-row--flex p-m w-50&quot;]/button[@class=&quot;el-button bf-button border-top-left-radius-0 border-bottom-left-radius-0 el-button--primary el-button--default&quot;]</value>
-      <webElementGuid>46846bb2-ac13-4276-9f49-df368c98c158</webElementGuid>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;configuration-group-layout&quot;]/div[@class=&quot;router-view&quot;]/div[@class=&quot;config-cdb&quot;]/div[@class=&quot;el-card is-never-shadow border in mt-l&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__footer&quot;]/div[1]/div[@class=&quot;el-row el-row--flex p-m w-50&quot;]/button[@class=&quot;el-button bf-button border-top-left-radius-0 border-bottom-left-radius-0 el-button--primary el-button--default&quot;]</value>
+      <webElementGuid>7b54d08c-808f-4e3f-9bb5-596a3874ee10</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[5]</value>
-      <webElementGuid>04c898ce-feeb-4d9c-a667-ca575a5b2933</webElementGuid>
+      <webElementGuid>5777b924-879d-49e4-aa9e-ec80f094fac2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,15 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div/div/button</value>
-      <webElementGuid>e7b881ef-0a8d-40b0-8fc5-0e9018e91aa7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Không có dữ liệu'])[1]/following::button[1]</value>
-      <webElementGuid>7327e59e-76c9-4835-8076-3d72632be80a</webElementGuid>
+      <webElementGuid>68653d80-6528-4c3e-9308-7f8ff9885c42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +78,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Giá trị Cấu hình'])[1]/following::button[1]</value>
-      <webElementGuid>9c35a9b6-b9ba-4e83-b0d3-1a8efab8e2a9</webElementGuid>
+      <webElementGuid>ac35912b-6a03-468c-bfa9-8a0350bc0e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tham số'])[1]/following::button[1]</value>
+      <webElementGuid>d11d26d2-5924-4604-92fa-ca58f5ad51e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoàn thành và Tạo Configuration Group'])[1]/preceding::button[1]</value>
-      <webElementGuid>c9f20849-e7d5-404c-ad36-3d0e78fdf044</webElementGuid>
+      <webElementGuid>66e56794-fa91-435f-903a-7671e3df3fb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/button</value>
-      <webElementGuid>cfdd2720-d548-4a4e-97b6-33237d3777bc</webElementGuid>
+      <webElementGuid>64a9726d-fe54-4686-8128-8d8a6563187f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Thêm mới' or . = 'Thêm mới')]</value>
-      <webElementGuid>fadd220b-e26e-4e60-bdbc-789be71ed8c7</webElementGuid>
+      <webElementGuid>0ad65ee8-dfd0-46c3-971f-7e721d9764da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

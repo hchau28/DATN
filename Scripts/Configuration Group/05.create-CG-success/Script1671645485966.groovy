@@ -17,17 +17,30 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/p_Configuration Groups'))
 
-WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instances')
+WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/button_To Configuration Groups'))
 
-WebUI.setText(findTestObject('Page_ng nhp - Bizfly Cloud/input_Email_username'), 'chauphamthihoang@vccorp.vn')
+WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/div_MongoDB'))
 
-WebUI.setEncryptedText(findTestObject('Page_ng nhp - Bizfly Cloud/input_Mt khu_password'), 'A/PWDOAbcIcWwld6srpIOg==')
+WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/i_Khng c d liu_el-select__caret el-input__icon el-icon-arrow-up'))
 
-WebUI.click(findTestObject('Page_ng nhp - Bizfly Cloud/button_ng nhp'))
+WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/span_auto_increment_increment'))
 
-WebUI.delay(3)
+WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/button_Thm mi'))
 
-WebUI.verifyTextPresent('Database Instances', true)
+WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/input_Gi tr Cu hnh_el-input__inner'))
+
+WebUI.setText(findTestObject(null), '123')
+
+var1 = CustomKeywords.'myPackage.myKeywords.randomString'(46)
+
+WebUI.setText(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/input_t tn Configuration Group_el-input__inner'), 
+    var1)
+
+WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/button_To mi Configuration Group'))
+
+WebUI.delay(5)
+
+WebUI.verifyTextPresent('Thành công', true)
 

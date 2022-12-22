@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>07.update-CG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>815011b5-1e45-4c22-8f9f-c0ecd45aa62b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ffabda0d-4261-41f3-9767-a926a3fcf99b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ffabda0d-4261-41f3-9767-a926a3fcf99b</id>
+      <masked>false</masked>
+      <name>var1</name>
+   </variable>
+</TestCaseEntity>

@@ -17,17 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/div_Backups'))
 
-WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instances')
+WebUI.click(findTestObject('Page_Backups - Bizfly Database Dashboard/div_To backup'))
 
-WebUI.setText(findTestObject('Page_ng nhp - Bizfly Cloud/input_Email_username'), 'chauphamthihoang@vccorp.vn')
+WebUI.click(findTestObject('Page_To backup - Bizfly Database Dashboard/i__el-select__caret el-input__icon el-icon-arrow-up'))
 
-WebUI.setEncryptedText(findTestObject('Page_ng nhp - Bizfly Cloud/input_Mt khu_password'), 'A/PWDOAbcIcWwld6srpIOg==')
+WebUI.click(findTestObject('Page_To backup - Bizfly Database Dashboard/p_dbbbbbbbb-primary-qaxx11fc'))
 
-WebUI.click(findTestObject('Page_ng nhp - Bizfly Cloud/button_ng nhp'))
+WebUI.setText(findTestObject('Page_To backup - Bizfly Database Dashboard/input__el-input__inner'), '1')
 
-WebUI.delay(3)
+WebUI.click(findTestObject('Page_To backup - Bizfly Database Dashboard/button_To backup'))
 
-WebUI.verifyTextPresent('Database Instances', true)
+WebUI.verifyTextPresent('Tên Backup chỉ được phép sử dụng các ký tự A-Z, a-z, ký tự \'-\', \'_\', 0-9 và chứa ít nhất 1 chữ cái.', 
+    true)
 

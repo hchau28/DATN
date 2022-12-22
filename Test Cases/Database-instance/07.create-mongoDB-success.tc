@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>07.create-mongoDB-success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59e80bd3-6e8e-471e-8024-eba709aeaf8f</testCaseGuid>
+</TestCaseEntity>

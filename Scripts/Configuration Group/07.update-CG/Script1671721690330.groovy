@@ -17,17 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/p_Configuration Groups'))
 
-WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instances')
+WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/i_Ngy to_bf-icon icon-m icon-more-horiz icon-color-default'))
 
-WebUI.setText(findTestObject('Page_ng nhp - Bizfly Cloud/input_Email_username'), 'chauphamthihoang@vccorp.vn')
+WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/li_Cp nht'))
 
-WebUI.setEncryptedText(findTestObject('Page_ng nhp - Bizfly Cloud/input_Mt khu_password'), 'A/PWDOAbcIcWwld6srpIOg==')
+WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/i_Gi tr Cu hnh_el-select__caret el-input__icon el-icon-arrow-up'))
 
-WebUI.click(findTestObject('Page_ng nhp - Bizfly Cloud/button_ng nhp'))
+WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/span_character_set_connection'))
 
-WebUI.delay(3)
+WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/button_Thm mi'))
 
-WebUI.verifyTextPresent('Database Instances', true)
+WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/span_Cp nht Configuration Group'))
 

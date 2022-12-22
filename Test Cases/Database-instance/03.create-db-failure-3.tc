@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03.create-db-failure-3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b77924c8-6433-480b-b3e0-dea1645f4d26</testCaseGuid>
+</TestCaseEntity>

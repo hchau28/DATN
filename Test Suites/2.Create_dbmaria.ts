@@ -15,7 +15,7 @@
       <guid>f707a85c-ce77-4caf-b1eb-a1f2c14f6f88</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/05.create-mariaDB1-success</testCaseId>
+      <testCaseId>Test Cases/Database-instance/08.create-mariaDB-success</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>0809f724-44bc-4e15-b80f-1ac9299ce4da</id>

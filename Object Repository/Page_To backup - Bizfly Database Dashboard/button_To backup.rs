@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8baec5b8-2e03-4449-a12b-068e918b8c9d</webElementGuid>
+      <webElementGuid>7361e100-cd3c-46b0-adbb-0fcc990ccc92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a9f07bcf-d9a7-4c8e-908d-a1f021f9fe5c</webElementGuid>
+      <webElementGuid>fe8fa896-f08d-4796-9030-c31d2e7605c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>el-button bf-button el-button--primary el-button--default</value>
-      <webElementGuid>72339d32-1cf8-4287-949c-432d41867fd8</webElementGuid>
+      <webElementGuid>f9cb21de-3386-4803-93b4-e34f37f38352</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Tạo backup </value>
-      <webElementGuid>c7d76fa7-0cd5-4b50-8156-b48fa286c840</webElementGuid>
+      <webElementGuid>5a998f5a-5418-44b3-aaca-0ea1840c69b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[2]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/div[@class=&quot;el-row is-justify-end is-align-middle el-row--flex&quot;]/button[@class=&quot;el-button bf-button el-button--primary el-button--default&quot;]</value>
-      <webElementGuid>9107cf32-dfe0-4538-b6f7-9068fbe14c5b</webElementGuid>
+      <webElementGuid>d3219b9a-6c6f-457a-9d9d-e5d3e35019e9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[5]</value>
-      <webElementGuid>061e92cb-bdfe-4fa5-b8df-326531436703</webElementGuid>
+      <webElementGuid>6e1aef4a-5a9c-4bb2-95b4-3faee9affa36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div[4]/div/div/div/div/button</value>
-      <webElementGuid>68774c9f-d549-4af4-8008-039b76b1f815</webElementGuid>
+      <webElementGuid>2d639b69-c018-4cca-bd85-b409715c5346</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::button[1]</value>
-      <webElementGuid>fffc7935-63a8-404f-a575-b515055d1057</webElementGuid>
+      <webElementGuid>df8e6db4-d18a-4b48-8d92-c09660ee3e6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tài liệu hướng dẫn'])[1]/preceding::button[1]</value>
-      <webElementGuid>481d3aa5-3974-4a96-b47c-449fd9690998</webElementGuid>
+      <webElementGuid>eb48e452-24fa-4846-9cf3-df30fb8fd6f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div/div/button</value>
-      <webElementGuid>3ab7430d-d4b0-4b7d-aa40-8d182e203efe</webElementGuid>
+      <webElementGuid>0d5210f5-5c8e-43bf-aa65-7d0a39b7e574</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' Tạo backup ' or . = ' Tạo backup ')]</value>
-      <webElementGuid>48af1dbf-952b-4743-9cf2-75926fb3bf8b</webElementGuid>
+      <webElementGuid>5df6b3bf-39dd-4acb-9140-67d833164315</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

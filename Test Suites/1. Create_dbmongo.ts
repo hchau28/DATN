@@ -19,10 +19,16 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>0a2751f2-5eed-497b-aa64-66299a3db930</guid>
+      <guid>d9b85319-4c53-467e-8f22-97ee7ca93b95</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/create-db-failure-1</testCaseId>
+      <testCaseId>Test Cases/Database-instance/04.create-mongoDB-success</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5a5cbe95-ef13-45dc-88d5-d3e1c7706420</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5dfa61da-d6a9-45e2-a8de-5d74d377522b</webElementGuid>
+      <webElementGuid>fbf9d67d-4af8-4acb-96ad-80fe66403050</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ddbb232f-0dad-403e-8685-f99aa061365c</webElementGuid>
+      <webElementGuid>734b5b24-242e-40f7-ba4a-46de165be340</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>4ef431ce-3a9e-4aad-baa7-8c8d3a9e22b3</webElementGuid>
+      <webElementGuid>96303eba-d7a7-4680-95d7-c8edfff30e57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Đặt tên bản Backup</value>
-      <webElementGuid>e067759d-4f4b-42e1-984f-1126b62b35ac</webElementGuid>
+      <webElementGuid>4cd589bd-7415-4655-b0e9-3c0f2ae20b87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>e501f73e-6a4d-4989-9165-089773035e81</webElementGuid>
+      <webElementGuid>1ebdca91-12bf-4973-9d02-e36d5e64dcde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,15 +62,15 @@
       <name>class</name>
       <type>Main</type>
       <value>el-input__inner</value>
-      <webElementGuid>434057b7-d8ff-49ef-81e4-716dbc2d073f</webElementGuid>
+      <webElementGuid>7cdac332-54a6-4797-bf52-3b6dc865210a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[2]/div[@class=&quot;el-card my-m is-never-shadow border in&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/div[@class=&quot;el-row&quot;]/div[@class=&quot;el-row&quot;]/form[@class=&quot;el-form&quot;]/div[@class=&quot;el-col el-col-12 el-col-offset-0 el-col-pull-0 el-col-push-0  el-col-mobile-24 el-col-tablet-14&quot;]/div[@class=&quot;el-form-item is-error is-required&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;bf-input el-input el-input--suffix&quot;]/input[@class=&quot;el-input__inner&quot;]</value>
-      <webElementGuid>fc1a4a2b-fc72-4634-b9f5-ce7c1a83cc67</webElementGuid>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[2]/div[@class=&quot;el-card my-m is-never-shadow border in&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/div[@class=&quot;el-row&quot;]/div[@class=&quot;el-row&quot;]/form[@class=&quot;el-form&quot;]/div[@class=&quot;el-col el-col-12 el-col-offset-0 el-col-pull-0 el-col-push-0  el-col-mobile-24 el-col-tablet-14&quot;]/div[@class=&quot;el-form-item is-required&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;bf-input el-input el-input--suffix&quot;]/input[@class=&quot;el-input__inner&quot;]</value>
+      <webElementGuid>177a417b-0e1c-4cae-a9a3-554082e45500</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[4]</value>
-      <webElementGuid>58a9d6c9-e169-4f99-9be7-f2485fadc996</webElementGuid>
+      <webElementGuid>61db7a39-dc6d-4531-b35a-6c7c6b9f1914</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/form/div/div/div/div/input</value>
-      <webElementGuid>ec11abb6-7dc4-4dc4-af8a-d21713b370bc</webElementGuid>
+      <webElementGuid>12b76d2f-4bc2-45a5-a607-ae5496ccb225</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/div/div/input</value>
-      <webElementGuid>e8b1bfe5-4b8b-4805-84dc-66d27dd61459</webElementGuid>
+      <webElementGuid>62732dba-12f0-4b23-a463-3206dc0fc09f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Đặt tên bản Backup']</value>
-      <webElementGuid>28e0a31b-7d92-4524-b03b-a0b51b972e14</webElementGuid>
+      <webElementGuid>8f7cffe7-19ed-4c8e-aaac-f8860974485d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>12.create-backupDB-success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdf637d1-2d01-427e-b656-1a523711188c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>995f3a9b-7bfb-49da-b972-4a94fa2447f1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>995f3a9b-7bfb-49da-b972-4a94fa2447f1</id>
+      <masked>false</masked>
+      <name>var1</name>
+   </variable>
+</TestCaseEntity>
