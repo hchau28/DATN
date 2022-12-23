@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Xc nhn thng tin khi to</name>
+   <tag></tag>
+   <elementGuidId>80f923ea-336f-4fea-bf97-b6cb848cb068</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[10]/div[2]/div[2]/div/div[2]/button/span/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.el-tooltip.focusing</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2800a460-a712-4c00-b96e-2520ec4288c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-tooltip focusing</value>
+      <webElementGuid>c151bb29-cc4a-43b7-8876-cc4ec9eae2f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>el-tooltip-1483</value>
+      <webElementGuid>5f8c6c58-c6fc-4d45-bf13-f427774d2cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e9f9f1d1-b77e-4c41-a824-d547140d3c2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Xác nhận thông tin khởi tạo </value>
+      <webElementGuid>fa1150f0-da4a-49d9-a39e-a2d474cbfe7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;project-create-layout&quot;]/div[@class=&quot;router-view px-xl mr-280&quot;]/div[1]/div[@class=&quot;el-card resource-price is-never-shadow border in fixed-price&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__footer&quot;]/div[1]/div[@class=&quot;mb-l mx-m&quot;]/button[@class=&quot;el-button bf-button w-100 el-button--primary el-button--default&quot;]/span[1]/div[@class=&quot;button-content&quot;]/span[@class=&quot;el-tooltip focusing&quot;]</value>
+      <webElementGuid>aad1f3b2-39df-4cd5-b7c5-d8d72c5b4112</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[10]/div[2]/div[2]/div/div[2]/button/span/div/span</value>
+      <webElementGuid>e1ce9e70-4532-455d-acc7-b468f419d161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DUNG LƯỢNG LƯU TRỮ'])[1]/following::span[3]</value>
+      <webElementGuid>2eba4735-0fbb-4b13-95c7-c81e5d3ef4a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VCPU / RAM'])[1]/following::span[4]</value>
+      <webElementGuid>cb29f411-e6c6-4fea-888f-d4cc6a09aeeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[1]</value>
+      <webElementGuid>257f1327-cdc8-4a4c-9066-11a8ab0d1162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::span[2]</value>
+      <webElementGuid>d07d77ac-b479-42f3-b578-a6eb0606aebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xác nhận thông tin khởi tạo']/parent::*</value>
+      <webElementGuid>16f43dee-bc29-44bf-97c6-65e89085ac7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span/div/span</value>
+      <webElementGuid>20ea64f1-30b1-48ec-9ab8-0744c7d758e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Xác nhận thông tin khởi tạo ' or . = ' Xác nhận thông tin khởi tạo ')]</value>
+      <webElementGuid>8bfa3a7b-7f1f-4b27-b167-fb99450a17aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
