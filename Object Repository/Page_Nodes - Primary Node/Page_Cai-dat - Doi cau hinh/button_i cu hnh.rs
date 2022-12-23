@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Khi to Secondary Node</name>
+   <name>button_i cu hnh</name>
    <tag></tag>
-   <elementGuidId>a901b6ba-70f0-4e8e-85cf-b2f666202067</elementGuidId>
+   <elementGuidId>b6dc0584-8ee9-42aa-8e06-bb2e8a61e119</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.el-button.bf-button.el-button--primary.el-button--default</value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[5]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>button.el-button.bf-button.el-button--primary.el-button--default.is-block</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>85ed78e1-75f7-4012-b059-c31bb186f0dc</webElementGuid>
+      <webElementGuid>db410fe3-dfa4-4c1b-bf83-e7caeaed4cf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,31 +30,31 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3e86a669-5ee2-4dc6-b941-96698d9eb779</webElementGuid>
+      <webElementGuid>2858f03b-d675-4c77-979f-ac6001cea727</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>el-button bf-button el-button--primary el-button--default is-block</value>
-      <webElementGuid>9d2d5767-679f-4683-9706-ea0a825aed18</webElementGuid>
+      <value>el-button bf-button el-button--primary el-button--default</value>
+      <webElementGuid>64414a3c-7093-476b-b6ce-4dd8f74ee9a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Khởi tạo Secondary Node </value>
-      <webElementGuid>9101f170-5390-4d94-a758-4416b3edb0ce</webElementGuid>
+      <value>Đổi cấu hình</value>
+      <webElementGuid>72b9723f-fcab-45b6-9004-f793c42d2db2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;project-create-layout&quot;]/div[@class=&quot;router-view&quot;]/div[1]/div[@class=&quot;el-card resource-price is-never-shadow border in fixed-price&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__footer&quot;]/div[1]/div[@class=&quot;m-m&quot;]/button[@class=&quot;el-button bf-button el-button--primary el-button--default is-block&quot;]</value>
-      <webElementGuid>bcd3019e-70f3-4e65-a873-06405e7e4491</webElementGuid>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;node-detail-layout&quot;]/div[@class=&quot;router-view&quot;]/div[1]/div[3]/div[@class=&quot;el-card is-never-shadow border in mb-l&quot;]/div[@class=&quot;el-card__header&quot;]/div[@class=&quot;el-card__header__custom&quot;]/div[@class=&quot;w-100 el-row is-justify-space-between is-align-middle&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;el-row is-justify-space-between is-align-middle el-row--flex&quot;]/button[@class=&quot;el-button bf-button el-button--primary el-button--default&quot;]</value>
+      <webElementGuid>0c61b19d-4253-487c-b07c-e53d8cf1a255</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,54 +62,54 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[5]</value>
-      <webElementGuid>b0d5ffef-e6e0-4172-a319-ce1f247b5a28</webElementGuid>
+      <webElementGuid>d742ac3e-e95b-45fe-b21f-39f33aca5721</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div[2]/div/div[4]/div[2]/div[2]/div/div/button</value>
-      <webElementGuid>117cb847-510e-4515-b379-f5206fbb5f2a</webElementGuid>
+      <value>//div[@id='app']/div/div[2]/div/div[3]/div/div/div/div/div/div/button</value>
+      <webElementGuid>39edd70f-df37-47de-988f-d975244e6893</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông số cấu hình'])[1]/following::button[1]</value>
-      <webElementGuid>830989d8-fa0a-4221-baa0-e31ca35a0cd5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thay đổi cấu hình'])[1]/following::button[1]</value>
+      <webElementGuid>36284853-dfd6-4945-9dd7-6704a290fbb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::button[1]</value>
-      <webElementGuid>bc9a3d40-7bfc-44d7-b2f1-90cdec2b9166</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cấu hình:'])[1]/following::button[1]</value>
+      <webElementGuid>cf26500f-f253-45e3-9aad-d3094ed67c84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
-      <webElementGuid>b0f0f0e3-4c3c-4d9d-afd3-0ea86b475c2b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='next'])[1]/preceding::button[1]</value>
+      <webElementGuid>0b419884-4551-4e01-a190-7d75e2e9e785</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/div/div/button</value>
-      <webElementGuid>131fe2c0-2c91-4824-91f9-d350961c8f30</webElementGuid>
+      <value>//div[3]/div/div/div/div/div/div/button</value>
+      <webElementGuid>215063dd-495f-47c3-9aee-0c531401be6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' Khởi tạo Secondary Node ' or . = ' Khởi tạo Secondary Node ')]</value>
-      <webElementGuid>5d72878d-4886-4d69-bfbc-207c4fa02adb</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Đổi cấu hình' or . = 'Đổi cấu hình')]</value>
+      <webElementGuid>5a365c59-50d0-402a-89cc-c6fd7bb9bdb0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

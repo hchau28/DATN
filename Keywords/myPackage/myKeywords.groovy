@@ -82,7 +82,7 @@ class myKeywords {
 			WebElement element = WebUiBuiltInKeywords.findWebElement(to);
 			if (!!element) {
 				int count = 0; // second
-				int maxCount = 3; //seconds
+				int maxCount = 20; //seconds
 				String str = element.getText();
 				Boolean isExists = element.getText().contains(text);
 				System.out.println(isExists);

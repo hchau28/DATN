@@ -31,4 +31,17 @@
          <variableId>adc3c66c-82c0-4c8a-91e1-92afbd2884cc</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>b5deed0a-b978-4b6f-9922-46562bcb81ae</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Database-instance/16.create-secondary-node-fail</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5035041d-e565-4438-857c-dacf53b8b83f</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>

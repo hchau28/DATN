@@ -29,36 +29,26 @@ WebUI.setText(findTestObject('Object Repository/delete_db_instance/Page_ng nhp -
 
 WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/button_ng nhp'))
 
-CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Database Instances - Bizfly Database Dashboard/button_To Database Instances'), 
-    'Tạo Database Instances')
-
 WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/i_ACTIVE_bf-icon icon-m icon-more-horiz icon-color-default'))
 
 WebUI.delay(1)
 
 WebUI.doubleClick(findTestObject('Page_Database Instances - List DB/span_Nodes'))
 
-CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Nodes - Bizfly Database Dashboard detail/span_Secondary Node'), 
-    'Secondary Node')
+CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Nodes - Primary Node/div_Primary Node'), 'Primary Node')
 
-WebUI.delay(1)
+WebUI.click(findTestObject('Page_Nodes - Primary Node/i_ACTIVE_bf-icon icon-m icon-more-horiz icon-color-default'))
 
-WebUI.doubleClick(findTestObject('Page_Nodes - Bizfly Database Dashboard detail/span_To Secondary Node'))
+WebUI.doubleClick(findTestObject('Page_Nodes - Primary Node/span_Ci t'))
 
-CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Khi to Secondary Node - Create Node/h3_Khi to Secondary Node'), 
-    'Khởi tạo Secondary Node')
+WebUI.delay(2)
 
-WebUI.delay(1)
+WebUI.click(findTestObject('Page_Nodes - Primary Node/Page_Cai_dat - Khoi dong Node/div_Khi ng li Node'))
 
-WebUI.doubleClick(findTestObject('Page_Khi to Secondary Node - Create Node/div_HN1'))
+WebUI.click(findTestObject('Page_Nodes - Primary Node/Page_Cai_dat - Khoi dong Node/span_Khi ng li'))
 
-WebUI.delay(1)
+CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Nodes - Primary Node/Page_Cai_dat - Khoi dong Node/div_Thnh cngKhi ng li Node fj7Tf-lp4fna9l thnh cng'), 
+    'Thành công')
 
-WebUI.doubleClick(findTestObject('Page_Khi to Secondary Node - Create Node/input__el-input__inner'))
-
-WebUI.delay(1)
-
-WebUI.doubleClick(findTestObject('Page_Khi to Secondary Node - Create Node/div_HN1'))
-
-WebUI.verifyTextPresent('Tên Secondary Node không được để trống', true)
+WebUI.closeBrowser()
 

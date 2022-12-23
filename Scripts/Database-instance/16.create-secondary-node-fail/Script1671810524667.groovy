@@ -28,13 +28,14 @@ WebUI.doubleClick(findTestObject('Page_Khi to Secondary Node - Create Node/div_H
 
 WebUI.delay(1)
 
-var1 = CustomKeywords.'myPackage.myKeywords.randomString'(47)
-
-WebUI.setText(findTestObject('Page_Khi to Secondary Node - Create Node/input__el-input__inner'), var1)
+WebUI.setText(findTestObject('Page_Khi to Secondary Node - Create Node/input__el-input__inner'), '11111')
 
 WebUI.delay(1)
 
 WebUI.doubleClick(findTestObject('Page_Khi to Secondary Node - Create Node/div_HN1'))
 
-WebUI.verifyTextPresent('Tên Secondary Node từ 5 đến 46 kí tự', true)
+WebUI.verifyTextPresent('Tên Tên Secondary Node chỉ được phép sử dụng các ký tự A-Z, a-z, ký tự \'-\', \'_\', 0-9 và chứa ít nhất 1 chữ cái', 
+    true)
+
+WebUI.closeBrowser()
 

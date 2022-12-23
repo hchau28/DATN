@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>14.create-secondary-node-fail</name>
+   <name>17.create-secondary-node-success</name>
    <tag>create-secondary-node</tag>
    <comment></comment>
-   <testCaseGuid>6e684300-f660-4b13-be5c-b7e04a6eddc5</testCaseGuid>
+   <testCaseGuid>ee05eac7-bd2e-4a69-bb9a-17cdfaeea95c</testCaseGuid>
 </TestCaseEntity>

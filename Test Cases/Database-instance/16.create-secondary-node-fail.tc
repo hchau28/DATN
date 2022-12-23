@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>16.create-secondary-node-fail</name>
+   <tag>create-secondary-node</tag>
+   <comment></comment>
+   <testCaseGuid>ccad07d1-cad0-4c86-b721-4c8d8f4c52af</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5035041d-e565-4438-857c-dacf53b8b83f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5035041d-e565-4438-857c-dacf53b8b83f</id>
+      <masked>false</masked>
+      <name>var1</name>
+   </variable>
+</TestCaseEntity>

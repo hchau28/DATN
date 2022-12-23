@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ACTIVE_bf-icon icon-m icon-more-horiz icon-color-default</name>
+   <tag></tag>
+   <elementGuidId>cee6fba1-0fb5-4437-9528-b00a35dada81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.wrapper-icon.text-gray.darken-500.el-dropdown-selfdefine.focusing > i.bf-icon.icon-m.icon-more-horiz.icon-color-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[3]/div[2]/div/div[2]/div/div/div/div/div[2]/div/div[3]/table/tbody/tr[2]/td[7]/div/div/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>50dae962-4a9d-4c6b-adaf-5a180c4934be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bf-icon icon-m icon-more-horiz icon-color-default</value>
+      <webElementGuid>0c4a5672-1589-4a1c-9786-75eae4c5af52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;instance-detail-layout&quot;]/div[@class=&quot;router-view px-xl&quot;]/div[1]/div[3]/div[@class=&quot;my-l&quot;]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-0&quot;]/div[1]/div[@class=&quot;content-slot pt-m&quot;]/div[@class=&quot;px-m pb-m&quot;]/div[2]/div[@class=&quot;el-table el-table--fit el-table--scrollable-x el-table--enable-row-hover el-table--enable-row-transition&quot;]/div[@class=&quot;el-table__body-wrapper is-scrolling-right&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_16_column_100 is-right&quot;]/div[@class=&quot;cell&quot;]/div[1]/div[@class=&quot;el-dropdown&quot;]/div[@class=&quot;wrapper-icon text-gray darken-500 el-dropdown-selfdefine  focusing&quot;]/i[@class=&quot;bf-icon icon-m icon-more-horiz icon-color-default&quot;]</value>
+      <webElementGuid>057ee039-9a5a-4dda-8c3b-304bbea82a09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[3]/div[2]/div/div[2]/div/div/div/div/div[2]/div/div[3]/table/tbody/tr[2]/td[7]/div/div/div/div/i</value>
+      <webElementGuid>264659b3-f8ea-4f7a-ab5b-dfa088dd4a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[7]/div/div/div/div/i</value>
+      <webElementGuid>e75cb58b-7ead-4807-891d-c6aabf238776</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

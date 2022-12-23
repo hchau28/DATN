@@ -29,36 +29,25 @@ WebUI.setText(findTestObject('Object Repository/delete_db_instance/Page_ng nhp -
 
 WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/button_ng nhp'))
 
-CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Database Instances - Bizfly Database Dashboard/button_To Database Instances'), 
-    'Tạo Database Instances')
+WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_Database Instances - Bizfly Database D_3ea25a/p_mmmmmmmmm'))
 
-WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/i_ACTIVE_bf-icon icon-m icon-more-horiz icon-color-default'))
+WebUI.delay(2)
 
-WebUI.delay(1)
+WebUI.doubleClick(findTestObject('Page_Xa - Bizfly Database Dashboard/li_Xa'))
 
-WebUI.doubleClick(findTestObject('Page_Database Instances - List DB/span_Nodes'))
+var1 = WebUI.getText(findTestObject('Page_Xa - Bizfly Database Dashboard/b_5wB6O'))
 
-CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Nodes - Bizfly Database Dashboard detail/span_Secondary Node'), 
-    'Secondary Node')
+System.out.println(var1)
 
-WebUI.delay(1)
+WebUI.doubleClick(findTestObject('Page_Xoa - DB/div_Xa'))
 
-WebUI.doubleClick(findTestObject('Page_Nodes - Bizfly Database Dashboard detail/span_To Secondary Node'))
+WebUI.setText(findTestObject('Page_Xa - Bizfly Database Dashboard/input_Xa cc bn Backups_el-input__inner'), var1)
 
-CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Khi to Secondary Node - Create Node/h3_Khi to Secondary Node'), 
-    'Khởi tạo Secondary Node')
+WebUI.doubleClick(findTestObject('Page_Xoa - DB/div_Xa'))
 
-WebUI.delay(1)
+WebUI.delay(4)
 
-WebUI.doubleClick(findTestObject('Page_Khi to Secondary Node - Create Node/div_HN1'))
+WebUI.verifyTextPresent('Thành công', true)
 
-WebUI.delay(1)
-
-WebUI.doubleClick(findTestObject('Page_Khi to Secondary Node - Create Node/input__el-input__inner'))
-
-WebUI.delay(1)
-
-WebUI.doubleClick(findTestObject('Page_Khi to Secondary Node - Create Node/div_HN1'))
-
-WebUI.verifyTextPresent('Tên Secondary Node không được để trống', true)
+WebUI.closeBrowser()
 

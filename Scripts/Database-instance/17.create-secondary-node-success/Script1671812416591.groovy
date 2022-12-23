@@ -29,21 +29,36 @@ WebUI.setText(findTestObject('Object Repository/delete_db_instance/Page_ng nhp -
 
 WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/button_ng nhp'))
 
-WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_Database Instances - Bizfly Database D_3ea25a/p_mmmmmmmmm'))
+WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/i_ACTIVE_bf-icon icon-m icon-more-horiz icon-color-default'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
-WebUI.click(findTestObject('Page_Xa - Bizfly Database Dashboard/li_Xa'))
+WebUI.doubleClick(findTestObject('Page_Database Instances - List DB/span_Nodes'))
 
-var1 = WebUI.getText(findTestObject('Page_Xa - Bizfly Database Dashboard/b_5wB6O'))
+CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Nodes - Bizfly Database Dashboard detail/span_Secondary Node'), 
+    'Secondary Node')
 
-WebUI.setText(findTestObject('Page_Xa - Bizfly Database Dashboard/input_Xa cc bn Backups_el-input__inner'), var1)
+WebUI.delay(1)
 
-WebUI.click(findTestObject('delete_db_instance/Page_Xa - Bizfly Database Dashboard/button_Xa'))
+WebUI.doubleClick(findTestObject('Page_Nodes - Bizfly Database Dashboard detail/span_To Secondary Node'))
 
-WebUI.delay(4)
+CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Khi to Secondary Node - Create Node/h3_Khi to Secondary Node'), 
+    'Khởi tạo Secondary Node')
 
-WebUI.verifyTextPresent('Thành công', true)
+WebUI.delay(1)
+
+WebUI.doubleClick(findTestObject('Page_Khi to Secondary Node - Create Node/div_HN1'))
+
+var1 = CustomKeywords.'myPackage.myKeywords.randomString'(5)
+
+WebUI.setText(findTestObject('Page_Khi to Secondary Node - Create Node/input__el-input__inner'), var1)
+
+WebUI.doubleClick(findTestObject('Page_Khi to Secondary Node - Create Node/div_Khi to Secondary Node'))
+
+WebUI.click(findTestObject('Page_Khi to Secondary Node - Create Node/button_Thanh ton'))
+
+CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Khi to Secondary Node - Create Node/div_Thnh cngKhi to Secondary Node thnh cng'), 
+    'Thành công')
 
 WebUI.closeBrowser()
 

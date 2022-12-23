@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Xa</name>
+   <tag></tag>
+   <elementGuidId>cdb2bb67-29c0-429d-aee7-95868ffca5b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dropdown-menu-6738 > li.el-dropdown-menu__item.bf-dropdown-item > span.text-red</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dropdown-menu-6738']/li[7]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ea9b5a88-8068-4e45-9d02-809f1cec3337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-red</value>
+      <webElementGuid>fec0e8c1-9ec9-4ec1-81b8-ee3060290d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xóa</value>
+      <webElementGuid>2deabae5-2963-449e-b3d7-7e48f49c69f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-menu-6738&quot;)/li[@class=&quot;el-dropdown-menu__item bf-dropdown-item&quot;]/span[@class=&quot;text-red&quot;]</value>
+      <webElementGuid>18231353-c9dc-4e96-8828-ae88f3319595</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dropdown-menu-6738']/li[7]/span</value>
+      <webElementGuid>e3cae663-678a-47dc-b80d-1abe2f63532a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cài đặt'])[6]/following::span[1]</value>
+      <webElementGuid>aca4e5b7-db79-40cb-a36c-0caa327881a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Theo dõi'])[5]/following::span[2]</value>
+      <webElementGuid>b72d4e5c-27cc-4054-8c13-5b647d84f60b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/ul/li[7]/span</value>
+      <webElementGuid>25f8b344-81c9-4408-a266-2bd0f10c2eb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Xóa' or . = 'Xóa')]</value>
+      <webElementGuid>8556d2d4-7c45-409c-a19a-6ffe5199ba1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
