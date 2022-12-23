@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01.create-CG-failure</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9bfabb3-3737-46a4-ab0a-046f03b47e5d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a7650c6c-26d7-4184-bed4-64b250a855b7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a7650c6c-26d7-4184-bed4-64b250a855b7</id>
+      <masked>false</masked>
+      <name>var1</name>
+   </variable>
+</TestCaseEntity>

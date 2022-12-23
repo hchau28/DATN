@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Configuration Group_el-checkbox__inner</name>
+   <tag></tag>
+   <elementGuidId>c0bd5e9a-5f5a-4d20-a1cb-682384a5a876</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-card__content.p-m > div > label.el-checkbox.bf-checkbox > span.el-checkbox__input > span.el-checkbox__inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[5]/div[2]/div/div/label/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>44869ced-5f25-4445-be4c-d5f1d45ec959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-checkbox__inner</value>
+      <webElementGuid>36af60a0-89e8-4e04-86bd-6458498a2693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;project-create-layout&quot;]/div[@class=&quot;router-view&quot;]/div[1]/div[@class=&quot;el-card is-never-shadow border in mb-l&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/label[@class=&quot;el-checkbox bf-checkbox&quot;]/span[@class=&quot;el-checkbox__input&quot;]/span[@class=&quot;el-checkbox__inner&quot;]</value>
+      <webElementGuid>9d548be7-7be5-4d89-b1de-dfa41913e0b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[5]/div[2]/div/div/label/span/span</value>
+      <webElementGuid>1ba0466b-2ee2-4dd2-bf3d-abffb6d9134a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/label/span/span</value>
+      <webElementGuid>fff4d001-a234-4ea8-bd98-6af1ff084d02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

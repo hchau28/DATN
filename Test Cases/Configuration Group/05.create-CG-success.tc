@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05.create-CG-success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2998430e-60c9-4562-920a-02e597c9dce3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4107d334-87e5-419a-955b-5c732416eac4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4107d334-87e5-419a-955b-5c732416eac4</id>
+      <masked>false</masked>
+      <name>var1</name>
+   </variable>
+</TestCaseEntity>

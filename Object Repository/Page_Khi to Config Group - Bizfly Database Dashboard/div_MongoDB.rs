@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MongoDB</name>
+   <tag></tag>
+   <elementGuidId>f840c48f-def9-4cba-b7fd-d65225ab4435</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div/div/div/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>16b5b2e6-878a-450d-bbba-f8d4451ee1d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>
+        border-top-left-radius-2xs
+        border-top-right-radius-2xs
+        border-bottom-solid
+        text-center
+        p-m
+       border-gray-200 border-width-bottom-1 border-bottom-solid border-width-bottom-1</value>
+      <webElementGuid>c9385645-bb11-42a8-af94-aa3e896b6703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+            MongoDB
+           </value>
+      <webElementGuid>2be1a4b6-36d4-4aa1-89a1-97f4284a0a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[@class=&quot;config-cdb&quot;]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/div[1]/div[@class=&quot;select-database-engine el-row el-row--flex&quot;]/div[@class=&quot;mr-xs cursor-pointer&quot;]/div[@class=&quot;el-tooltip border-radius-2xs border-solid border-gray-200 border-width-1 focusing&quot;]/div[@class=&quot;border-top-left-radius-2xs
+        border-top-right-radius-2xs
+        border-bottom-solid
+        text-center
+        p-m
+       border-gray-200 border-width-bottom-1 border-bottom-solid border-width-bottom-1&quot;]</value>
+      <webElementGuid>b23677bf-f881-4e5c-a07e-d5e9831b2e45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div/div/div/div[3]/div/div</value>
+      <webElementGuid>d555217d-5806-4521-8c95-80de0a5a1365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn phiên bản'])[2]/following::div[5]</value>
+      <webElementGuid>572cb7b7-28cf-45b8-a3dc-add10a4b41a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redis'])[1]/following::div[9]</value>
+      <webElementGuid>f0558e1b-b857-4fb4-9133-58b223ba0eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn phiên bản'])[4]/preceding::div[3]</value>
+      <webElementGuid>87f2afeb-f575-4b0e-834a-b489b7ab70f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div/div[3]/div/div</value>
+      <webElementGuid>8dcbecde-c09a-45eb-b286-e498bc3a7d2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 
+            MongoDB
+           ' or . = ' 
+            MongoDB
+           ')]</value>
+      <webElementGuid>d64fab72-c384-421d-a842-67b9fe530e1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

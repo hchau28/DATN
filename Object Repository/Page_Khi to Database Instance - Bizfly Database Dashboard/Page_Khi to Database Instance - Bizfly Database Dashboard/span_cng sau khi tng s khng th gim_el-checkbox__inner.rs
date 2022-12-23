@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_cng sau khi tng s khng th gim_el-checkbox__inner</name>
+   <tag></tag>
+   <elementGuidId>e3983cd4-66e0-4987-b19b-49edb0efa863</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.el-checkbox__inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[4]/div[2]/div/div/div[3]/label/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f54b996a-eed8-4f4d-aea1-68e02f6c9b1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-checkbox__inner</value>
+      <webElementGuid>2b82afba-3005-4874-b235-1c557c6c123a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;project-create-layout&quot;]/div[@class=&quot;router-view&quot;]/div[1]/div[@class=&quot;el-card is-never-shadow border in mb-l&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/div[@class=&quot;auto-scale-config&quot;]/label[@class=&quot;el-checkbox bf-checkbox&quot;]/span[@class=&quot;el-checkbox__input&quot;]/span[@class=&quot;el-checkbox__inner&quot;]</value>
+      <webElementGuid>8bb55ce2-b3ff-4bc5-b0af-cb9e29a621a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[4]/div[2]/div/div/div[3]/label/span/span</value>
+      <webElementGuid>cdaf297b-31c2-47db-af56-de332cea7c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label/span/span</value>
+      <webElementGuid>e5176dfd-0b13-4362-bd9c-b0c1d6755451</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

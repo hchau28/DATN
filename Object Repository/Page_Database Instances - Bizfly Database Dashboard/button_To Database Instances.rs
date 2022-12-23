@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_To Database Instances</name>
+   <tag></tag>
+   <elementGuidId>296054ce-6f6f-4f12-8722-4ce4af217d47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.el-button.bf-button.el-button--primary.el-button--small.button-create-instance</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5bfac3b5-d77a-4011-b904-9d18552ff395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3d16699c-9273-4ed5-b218-a847f469ce6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-button bf-button el-button--primary el-button--small button-create-instance</value>
+      <webElementGuid>4524319c-017a-47d3-9385-b3a4f9b18078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tạo Database Instances </value>
+      <webElementGuid>8c393a48-24d0-4a74-bb4e-ac85f40f11d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[@class=&quot;instances&quot;]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__header&quot;]/div[@class=&quot;el-card__header__custom&quot;]/div[@class=&quot;w-100 el-row is-justify-space-between is-align-middle el-row--flex&quot;]/div[@class=&quot;el-row is-justify-end is-align-middle el-row--flex w-100&quot;]/div[2]/div[@class=&quot;button-slot ml-xs&quot;]/div[1]/div[@class=&quot;el-row el-row--flex&quot;]/button[@class=&quot;el-button bf-button el-button--primary el-button--small button-create-instance&quot;]</value>
+      <webElementGuid>ec6c0caf-306d-4ff6-bedd-8ede422e4d7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>251a4dea-9ab5-4edd-a319-82ef5ce6bb46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/button</value>
+      <webElementGuid>2aa1220c-0f1e-443a-ba85-eee64083b09e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Database Engine'])[1]/following::button[1]</value>
+      <webElementGuid>1ae98916-a9e4-4824-a3f9-a7a24e7aaa97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên Database'])[1]/following::button[1]</value>
+      <webElementGuid>8783d715-02ae-47e3-9784-774d9b7281db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên Database Instance'])[1]/preceding::button[1]</value>
+      <webElementGuid>030bf984-47dc-4be8-acd9-653b2c54e4cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/button</value>
+      <webElementGuid>28922725-c3cb-41ea-aa28-1a91c1382cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Tạo Database Instances ' or . = ' Tạo Database Instances ')]</value>
+      <webElementGuid>ccc86353-b060-49d8-b196-7615e94b4f6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Xa</name>
+   <tag></tag>
+   <elementGuidId>88702d4d-d8dc-42fb-9222-d41796fcda67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='/instance/0adc5bdb-32e8-4946-8369-7d434efc6fb3/delete']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2f272e85-e5fc-4b82-aa9a-56cb95b81cc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>router-link w-100 text-decoration-none</value>
+      <webElementGuid>1e384491-1668-48f7-a9a2-106a46d869a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Xóa
+          </value>
+      <webElementGuid>660a6cdd-1474-45c9-85ba-9bc719e97cf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;/instance/0adc5bdb-32e8-4946-8369-7d434efc6fb3/delete&quot;)/span[@class=&quot;router-link w-100 text-decoration-none&quot;]</value>
+      <webElementGuid>df007f98-3f30-4ffc-9157-ca827111f616</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='/instance/0adc5bdb-32e8-4946-8369-7d434efc6fb3/delete']/span</value>
+      <webElementGuid>1fc62b43-ede4-4142-a9e5-5e0b71a3f5d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cài đặt'])[1]/following::span[1]</value>
+      <webElementGuid>018fbab1-b62c-4504-806f-e3eff1f781ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nodes'])[1]/following::span[2]</value>
+      <webElementGuid>43d97d25-e394-4bc3-87ea-351db11ad0e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mmmmmmmmm'])[2]/preceding::span[1]</value>
+      <webElementGuid>4d329acb-5037-45ec-b378-11ecfe98aa22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Database Engine:'])[1]/preceding::span[1]</value>
+      <webElementGuid>db547538-a97c-4717-991f-e87fdf9038c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xóa']/parent::*</value>
+      <webElementGuid>a350c73c-8a51-441d-8f1e-42fec9e379f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/span</value>
+      <webElementGuid>5f13e016-ebd7-4629-9a60-3c71745e5564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+          Xóa
+          ' or . = '
+          Xóa
+          ')]</value>
+      <webElementGuid>90d89fa5-5149-4ecb-98f0-863f8aa22392</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_To backup</name>
+   <tag></tag>
+   <elementGuidId>d90bf520-95b7-426b-91e5-45e27ba1d792</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-row.is-align-middle.el-row--flex > button.el-button.bf-button.el-button--primary.el-button--small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4fc35deb-c49e-4694-ab4c-13a317bcbbac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7dec6d67-e88b-449d-8d5b-3327e23aaa11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-button bf-button el-button--primary el-button--small</value>
+      <webElementGuid>f4d77e47-35bc-4f20-8009-b1bce7bbdb83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tạo backup </value>
+      <webElementGuid>42fabfeb-7a05-4cc2-838f-26f9e2f8c8e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;instance-detail-layout&quot;]/div[@class=&quot;router-view&quot;]/div[1]/div[3]/div[2]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__header&quot;]/div[@class=&quot;el-card__header__custom&quot;]/div[@class=&quot;w-100 el-row is-justify-space-between is-align-middle&quot;]/div[@class=&quot;el-row is-align-bottom el-row--flex w-100 flex-wrap&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;button-slot mt-xs&quot;]/div[@class=&quot;el-row is-align-middle el-row--flex&quot;]/button[@class=&quot;el-button bf-button el-button--primary el-button--small&quot;]</value>
+      <webElementGuid>e58be991-e2f7-4718-82ef-2c3e086f46b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+      <webElementGuid>752edf78-a732-49ab-a307-4af8482b6043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[3]/div[2]/div/div/div/div/div[2]/div[2]/div/div/button</value>
+      <webElementGuid>c6d6ffb0-fc08-4e45-bf92-91a466211ef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='đến'])[1]/following::button[1]</value>
+      <webElementGuid>12a1093d-97ec-4b71-bd16-5727896d1a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='của 1'])[2]/following::button[2]</value>
+      <webElementGuid>5c06168e-80a1-4d43-a3af-e9a42a25ecae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên Backup'])[1]/preceding::button[1]</value>
+      <webElementGuid>fad331b3-8f14-4bfc-9cc8-9f8483bca5af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div[2]/div/div/button</value>
+      <webElementGuid>e7c1e506-db1d-439b-9cea-5e49e4fe7802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Tạo backup ' or . = ' Tạo backup ')]</value>
+      <webElementGuid>bc170a5c-ed37-439a-be68-c7e49b5fd3ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

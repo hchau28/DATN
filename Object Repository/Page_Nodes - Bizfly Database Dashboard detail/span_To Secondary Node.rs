@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_To Secondary Node</name>
+   <tag></tag>
+   <elementGuidId>e1e904fd-610f-4768-aa85-3c14824e6485</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[3]/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/button/span/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.el-tooltip.focusing</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a27dc4a7-59f6-44b3-b9d8-c1be820bcccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-tooltip focusing</value>
+      <webElementGuid>2f892ec3-ede8-4a4f-83ac-8f9a3e3b101f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>el-tooltip-385</value>
+      <webElementGuid>5cc53096-ac79-4eca-ab3d-d04563ab150c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>27fc1edc-6d52-4649-a478-bbb547607874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tạo Secondary Node </value>
+      <webElementGuid>4c6bcb19-c0a2-4d70-808f-cda5b1b13598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;instance-detail-layout&quot;]/div[@class=&quot;router-view px-xl&quot;]/div[1]/div[3]/div[@class=&quot;my-l&quot;]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__header&quot;]/div[@class=&quot;el-card__header__custom&quot;]/div[@class=&quot;w-100 el-row is-justify-space-between is-align-middle&quot;]/div[@class=&quot;el-row is-align-bottom el-row--flex w-100 flex-wrap&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;button-slot mt-xs&quot;]/div[1]/div[@class=&quot;el-row el-row--flex&quot;]/button[@class=&quot;el-button bf-button el-button--primary el-button--small&quot;]/span[1]/div[@class=&quot;button-content&quot;]/span[@class=&quot;el-tooltip focusing&quot;]</value>
+      <webElementGuid>682668bd-d2c0-4b46-b283-3e50434f06ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[3]/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/button/span/div/span</value>
+      <webElementGuid>4a1061bb-987a-4b98-ab49-4bee2129ec32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xóa'])[2]/following::span[2]</value>
+      <webElementGuid>fd587c55-2ead-4810-b32d-599db4cf7591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thao tác'])[1]/following::span[2]</value>
+      <webElementGuid>6b56580e-68e6-4797-b7c5-1dad8a258cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên'])[2]/preceding::span[1]</value>
+      <webElementGuid>2851fce6-23e4-4344-a336-244df41ccb26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='database enginer'])[2]/preceding::span[1]</value>
+      <webElementGuid>22307dbe-2d6c-4cd5-bee0-8526f8c151aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tạo Secondary Node']/parent::*</value>
+      <webElementGuid>ef7d2b70-3fbb-48ac-b3bd-652b8f50753d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/button/span/div/span</value>
+      <webElementGuid>1dfd52bf-bf43-4bd5-aae3-10526cc56a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Tạo Secondary Node ' or . = ' Tạo Secondary Node ')]</value>
+      <webElementGuid>efff7f85-64e3-45ea-83dd-01f46748a3ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

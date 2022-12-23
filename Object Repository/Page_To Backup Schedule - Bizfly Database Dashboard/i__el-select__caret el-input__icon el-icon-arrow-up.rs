@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__el-select__caret el-input__icon el-icon-arrow-up</name>
+   <tag></tag>
+   <elementGuidId>a892d08c-f06b-445b-84c8-56af606e1b4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div[2]/div[2]/div/div/div/div/form/div/div/div/div/div/span/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d3f0e738-9ee2-41d3-adf8-48a01cdd8ef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-select__caret el-input__icon el-icon-arrow-up</value>
+      <webElementGuid>66d93a3b-44fb-4f38-94ea-43f567432aee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[2]/div[@class=&quot;el-card is-never-shadow border in mb-l&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content px-m pt-m pb-0&quot;]/div[1]/div[1]/div[@class=&quot;my-m el-row is-align-middle el-row--flex&quot;]/form[@class=&quot;el-form w-100&quot;]/div[@class=&quot;el-col el-col-8 el-col-offset-0 el-col-pull-0 el-col-push-0  el-col-mobile-24 el-col-tablet-14&quot;]/div[@class=&quot;el-form-item mb-0 is-required&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;el-select bf-select w-100 selectSize&quot;]/div[@class=&quot;el-input el-input--suffix&quot;]/span[@class=&quot;el-input__suffix&quot;]/span[@class=&quot;el-input__suffix-inner&quot;]/i[@class=&quot;el-select__caret el-input__icon el-icon-arrow-up&quot;]</value>
+      <webElementGuid>375a5815-0b8b-47aa-97be-79910b97d565</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div[2]/div[2]/div/div/div/div/form/div/div/div/div/div/span/span/i</value>
+      <webElementGuid>60e78b53-ad4b-4599-8920-9b0f7469ff7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/form/div/div/div/div/div/span/span/i</value>
+      <webElementGuid>e6a1b32b-a0b9-4b24-8901-5640cf927b06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Backups</name>
+   <tag></tag>
+   <elementGuidId>48244972-d96d-4a4a-89a4-83a55479c88b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='/backups']/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e01d4043-2479-4602-ae51-b0684efb7588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-row is-align-middle el-row--flex</value>
+      <webElementGuid>b383bc3d-3ab9-42ae-b9b5-f406f3e1da6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Backups  </value>
+      <webElementGuid>dd9f11e9-b552-42a8-93e6-c138cfeb3bc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;/backups&quot;)/span[@class=&quot;router-link w-100 text-decoration-none&quot;]/div[@class=&quot;el-row is-align-middle el-row--flex&quot;]</value>
+      <webElementGuid>3aa40dfc-dbc3-49dc-bc3f-75af7b59f0ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='/backups']/span/div</value>
+      <webElementGuid>8d2c2b90-0c07-4f6b-a5f4-4a503cfb4105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[2]/following::div[4]</value>
+      <webElementGuid>29afc04c-8971-4fdc-9feb-9711577c4736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Database Instance'])[1]/following::div[4]</value>
+      <webElementGuid>2c9c09a3-3f1d-4c17-84ad-fcec8b911f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Database Instances'])[2]/preceding::div[5]</value>
+      <webElementGuid>d1842dbf-dbf8-47d9-9949-f7b08cfa7109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Database Instances'])[3]/preceding::div[6]</value>
+      <webElementGuid>ee4fed59-418e-404a-9157-42bd3130140c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span/div</value>
+      <webElementGuid>1bc38405-f328-4dcf-be50-15a84b2989d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Backups  ' or . = 'Backups  ')]</value>
+      <webElementGuid>19306f3c-7a9f-4049-89a9-952d6f59dc4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

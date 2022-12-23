@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>delete-db-instance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44e533f9-88e0-4864-996f-11658b4b21ba</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f41193f-d6e4-451b-88fb-18bcb0fcf7bf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3f41193f-d6e4-451b-88fb-18bcb0fcf7bf</id>
+      <masked>false</masked>
+      <name>var1</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01.create-backup-failure</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d863d0a-0bcd-45f2-ba7f-77307bead385</testCaseGuid>
+</TestCaseEntity>

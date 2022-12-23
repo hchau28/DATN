@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Mt khu_fa fa-eye</name>
+   <tag></tag>
+   <elementGuidId>88db13b1-4588-4212-8815-7fb16c3ce31b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form_login']/div[2]/label[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-eye</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f4009dc8-acfa-4ded-88bf-ee0ac608b166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ba3f3a9e-12d0-4505-9746-49f5427b069d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-eye</value>
+      <webElementGuid>67c40323-b184-42f6-bb80-d0936789a154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_login&quot;)/div[@class=&quot;form-group password-wrapper&quot;]/label[@class=&quot;login-field-icon togglePassword&quot;]/i[@class=&quot;fa fa-eye&quot;]</value>
+      <webElementGuid>3123fd97-6422-44ef-90d9-a0977ffeab03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form_login']/div[2]/label[2]/i</value>
+      <webElementGuid>7c93764f-607c-44f5-b00b-bebeafd2aa13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>cd633207-d589-4b84-b7ad-0e47c4d75d19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
