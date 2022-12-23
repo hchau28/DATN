@@ -6,12 +6,12 @@
    <elementGuidId>0494acc4-299a-4ee3-b1ce-1a81db7ed60e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.bf-icon.icon-m.icon-more-horiz.icon-color-default</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div/div/div/div[3]/table/tbody/tr/td[7]/div/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bf-icon.icon-m.icon-more-horiz.icon-color-default</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>8f002896-81ce-4303-8dbb-b74ef387a5ff</webElementGuid>
+      <webElementGuid>fe9eed8e-b5c0-4a46-9325-040d1e1a0e1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>bf-icon icon-m icon-more-horiz icon-color-default</value>
-      <webElementGuid>5af15efb-f715-4397-80c7-22fa43b5d6b3</webElementGuid>
+      <webElementGuid>3ed3e557-5b60-4758-b26e-567871939f51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[@class=&quot;instances&quot;]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-0&quot;]/div[1]/div[@class=&quot;content-slot pt-m&quot;]/div[@class=&quot;el-table el-table--fit el-table--scrollable-x el-table--enable-row-hover el-table--enable-row-transition bf-table-action&quot;]/div[@class=&quot;el-table__body-wrapper is-scrolling-right&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_1_column_7&quot;]/div[@class=&quot;cell&quot;]/div[@class=&quot;el-dropdown&quot;]/div[@class=&quot;wrapper-icon text-gray el-dropdown-selfdefine&quot;]/i[@class=&quot;bf-icon icon-m icon-more-horiz icon-color-default&quot;]</value>
-      <webElementGuid>9b091aec-9a4a-4e58-af9c-9d89287396dc</webElementGuid>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[@class=&quot;instances&quot;]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-0&quot;]/div[1]/div[@class=&quot;content-slot pt-m&quot;]/div[@class=&quot;el-table el-table--fit el-table--enable-row-hover el-table--enable-row-transition bf-table-action&quot;]/div[@class=&quot;el-table__body-wrapper is-scrolling-none&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_1_column_7&quot;]/div[@class=&quot;cell&quot;]/div[@class=&quot;el-dropdown is-visible&quot;]/div[@class=&quot;wrapper-icon text-gray el-dropdown-selfdefine    focusing&quot;]/i[@class=&quot;bf-icon icon-m icon-more-horiz icon-color-default&quot;]</value>
+      <webElementGuid>b5a3b042-b461-46d5-aae3-a8735442f9e5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div/div/div/div[3]/table/tbody/tr/td[7]/div/div/div/i</value>
-      <webElementGuid>6e46decd-02df-4fba-abd3-c137c07538b1</webElementGuid>
+      <webElementGuid>55182464-a52a-4a48-b8de-d9dcd33c5ed4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[7]/div/div/div/i</value>
-      <webElementGuid>5d030a7b-873c-40ca-8cb4-4d4fd3e35e9c</webElementGuid>
+      <webElementGuid>9b0a68c7-e493-4109-8f89-f385e75e0b71</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
