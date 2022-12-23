@@ -21,20 +21,13 @@ WebUI.click(findTestObject('Object Repository/Page_Database Instances - Bizfly D
 
 WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/div_MongoDB'))
 
-WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/div_908.424  thng                         1_8f15ca'))
-
-WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Data_228464/div_81.840  thng                         11_c399d0'))
-
 WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/label_HN1'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/input__el-input__inner'), 
-    '98765')
+WebUI.setText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/input__el-input__inner'), 'a1234')
 
-WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/button_Xc nhn thng tin khi to'))
+WebUI.doubleClick(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/span_Xc nhn thng tin khi to'))
+
+WebUI.delay(1)
 
 WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/Page_Khi to Database Instance - Bizfly Database Dashboard/Page_Khi to Database Instance - Bizfly Database Dashboard/button_Hy b'))
-
-WebUI.verifyTextPresent('', false)
-
-WebUI.acceptAlert()
 

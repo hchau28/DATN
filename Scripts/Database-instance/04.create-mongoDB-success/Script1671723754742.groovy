@@ -21,24 +21,21 @@ WebUI.click(findTestObject('Object Repository/Page_Database Instances - Bizfly D
 
 WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/div_MongoDB'))
 
-WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/div_908.424  thng                         1_8f15ca'))
-
-WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Data_228464/div_81.840  thng                         11_c399d0'))
-
 WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/label_HN1'))
 
 var1 = CustomKeywords.'myPackage.myKeywords.randomString'(5)
 
-WebUI.setText(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/input__el-input__inner'), 
-    var1)
+WebUI.setText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/input__el-input__inner'), var1)
 
-WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/button_Xc nhn thng tin khi to'))
+WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/span_Xc nhn thng tin khi to'))
+
+WebUI.delay(2)
 
 WebUI.verifyTextPresent('Xác nhận mua gói cước', true)
 
 WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/button_Thanh ton'))
 
-WebUI.delay(5)
+WebUI.delay(3)
 
 WebUI.verifyTextPresent('Thành công', true)
 

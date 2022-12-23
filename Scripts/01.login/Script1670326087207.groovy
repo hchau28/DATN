@@ -19,15 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instances')
+WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database')
 
 WebUI.setText(findTestObject('Page_ng nhp - Bizfly Cloud/input_Email_username'), 'chauphamthihoang@vccorp.vn')
 
 WebUI.setEncryptedText(findTestObject('Page_ng nhp - Bizfly Cloud/input_Mt khu_password'), 'A/PWDOAbcIcWwld6srpIOg==')
 
 WebUI.click(findTestObject('Page_ng nhp - Bizfly Cloud/button_ng nhp'))
-
-WebUI.delay(3)
-
-WebUI.verifyTextPresent('Database Instances', true)
 
