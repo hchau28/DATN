@@ -25,14 +25,18 @@ WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard
 
 WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/i_Khng c d liu_el-select__caret el-input__icon el-icon-arrow-up'))
 
-WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/li_autocommit'))
+WebUI.doubleClick(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/span_auto_increment_offset'))
+
+WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/button_Thm mi'))
 
 var1 = CustomKeywords.'myPackage.myKeywords.randomString'(4)
 
 WebUI.setText(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/input_t tn Configuration Group_el-input__inner'), 
     var1)
 
-WebUI.delay(5)
+WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/span_To mi Configuration Group'))
 
-WebUI.verifyOptionSelectedByValue(findTestObject(null), '', false, 0)
+WebUI.delay(2)
+
+WebUI.verifyTextPresent('Tên Configuration Group từ 5 - 46 ký tự', true)
 

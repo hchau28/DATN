@@ -21,30 +21,29 @@ WebUI.click(findTestObject('Object Repository/Page_Database Instances - Bizfly D
 
 WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/div_MongoDB'))
 
-WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/div_908.424  thng                         1_8f15ca'))
-
 WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/span_cng sau khi tng s khng th gim_el-checkbox__inner'))
 
-WebUI.setText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/Page_Khi to Database Instance - Bizfly Database Dashboard/input_cng sau khi tng s khng th gim_el-input__inner'), 
-    nguongtang)
+WebUI.setMaskedText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/Page_Khi to Database Instance - Bizfly Database Dashboard/input_cng sau khi tng s khng th gim_el-input__inner'), 
+    '50')
 
-WebUI.setText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/Page_Khi to Database Instance - Bizfly Database Dashboard/input_(gi tr l s nguyn trong khong t 50 n 95)_el-input__inner'), 
-    gioihan)
-
-WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Data_228464/div_81.840  thng                         11_c399d0'))
+WebUI.setMaskedText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/Page_Khi to Database Instance - Bizfly Database Dashboard/input_(gi tr l s nguyn trong khong t 50 n 95)_el-input__inner'), 
+    '10')
 
 WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/label_HN1'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/input__el-input__inner'), 
-    username)
+WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/span_Configuration Group_el-checkbox__inner'))
 
-WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/button_Xc nhn thng tin khi to'))
+var1 = CustomKeywords.'myPackage.myKeywords.randomString'(5)
+
+WebUI.setText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/input__el-input__inner'), var1)
+
+WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/span_Xc nhn thng tin khi to'))
 
 WebUI.verifyTextPresent('Xác nhận mua gói cước', true)
 
 WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/button_Thanh ton'))
 
-WebUI.delay(5)
+WebUI.delay(3)
 
 WebUI.verifyTextPresent('Thành công ', true)
 

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[5]</value>
+         <value>(//input[@type='text'])[7]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2dc2b4d3-a706-48ed-819f-5060f8694212</webElementGuid>
+      <webElementGuid>45b0e2fb-41f6-4b2d-9a0e-e86f494a875c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e83703b8-2c8b-4940-b278-819bd2c9025d</webElementGuid>
+      <webElementGuid>1782afcb-b92f-441c-9721-e5f82ae1f817</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>4be2fa9c-9c6a-463b-b5ae-2108b5bf3c50</webElementGuid>
+      <webElementGuid>1276f348-81db-48b3-b13d-d671b163922d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Nhập tên Database Instance</value>
-      <webElementGuid>107d8f2a-fee6-4221-9fe9-c445ea8ab903</webElementGuid>
+      <webElementGuid>5fea068d-0f16-40b7-94b8-b0750565e9b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>bcccbdfb-6945-4f72-bd32-f764526fac1c</webElementGuid>
+      <webElementGuid>3bd1d4b5-d973-438c-8bc1-8b101303c150</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>el-input__inner</value>
-      <webElementGuid>329d5209-d1db-4c56-8b07-ea82a267d2f2</webElementGuid>
+      <webElementGuid>5728199e-1b99-4a21-ba3d-daf9648552f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,15 +70,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;project-create-layout&quot;]/div[@class=&quot;router-view&quot;]/div[1]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/form[@class=&quot;el-form&quot;]/div[@class=&quot;el-form-item m-0 is-required&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;bf-input el-input&quot;]/input[@class=&quot;el-input__inner&quot;]</value>
-      <webElementGuid>8bbc4c21-a020-43c7-b950-10f445b8b500</webElementGuid>
+      <webElementGuid>28ea1100-5129-4688-aaa3-6c810822b3a8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@type='text'])[5]</value>
-      <webElementGuid>3cb99755-ffec-4355-aec4-e4624c296711</webElementGuid>
+      <value>(//input[@type='text'])[7]</value>
+      <webElementGuid>d298fa5b-6fcc-4978-b02f-24a8a8b0c5bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div/div[9]/div[2]/div/div/form/div/div/div/input</value>
-      <webElementGuid>7951b2e8-b898-4934-a772-30530d0b52ae</webElementGuid>
+      <webElementGuid>2d11682d-4248-4387-a6a7-8c7cc80221b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/div/input</value>
-      <webElementGuid>d286224e-11a8-438f-9841-cd2eddb4a653</webElementGuid>
+      <webElementGuid>4f28c9b6-84a8-4374-a815-e3eecc007254</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Nhập tên Database Instance']</value>
-      <webElementGuid>c0eea858-50ee-488a-9b09-c8af47eb4664</webElementGuid>
+      <webElementGuid>a2a268b3-67d5-46b2-97e3-d6114c24c3ce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

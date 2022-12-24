@@ -19,26 +19,25 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Object Repository/Page_Database Instances - Bizfly Database D_3ea25a/button_To Database Instances'))
 
-WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/div_MongoDB'))
+WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/small_MongoDB'))
 
-WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/div_908.424  thng                         1_8f15ca'))
+WebUI.doubleClick(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/div_4 vCPU  8 GB RAM'))
 
-WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/div_1.16tr  thng                         1.562  gi                         160 GB'))
+WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/div_80 GB'))
 
-WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/label_HN1'))
+WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/small_HN1'))
 
 var1 = CustomKeywords.'myPackage.myKeywords.randomString'(31)
 
-WebUI.setText(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/input__el-input__inner'), 
-    var1)
+WebUI.setText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/input__el-input__inner'), var1)
 
-WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/button_Xc nhn thng tin khi to'))
+WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/span_Xc nhn thng tin khi to'))
 
 WebUI.verifyTextPresent('Xác nhận mua gói cước', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/button_Thanh ton'))
+WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/div_Thanh ton'))
 
-WebUI.delay(5)
+WebUI.delay(3)
 
 WebUI.verifyTextPresent('Thành công', true)
 

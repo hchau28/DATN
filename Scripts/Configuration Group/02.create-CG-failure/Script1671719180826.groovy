@@ -25,11 +25,15 @@ WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard
 
 WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/i_Khng c d liu_el-select__caret el-input__icon el-icon-arrow-up'))
 
-WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/li_autocommit'))
+WebUI.doubleClick(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/span_character_set_connection'))
+
+WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/button_Thm mi'))
 
 WebUI.setText(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/input_t tn Configuration Group_el-input__inner'), 
     '12345')
 
-WebUI.verifyTextPresent('Tên Configuration Group chỉ được phép sử dụng các ký tự A-Z, a-z, ký tự \'-\', \'_\', 0-9 và chứa ít nhất 1 chữ cái.\nTên Configuration Group chỉ được phép sử dụng các ký tự A-Z, a-z, ký tự \'-\', \'_\', 0-9 và chứa ít nhất 1 chữ cái.\n', 
+WebUI.delay(2)
+
+WebUI.verifyTextPresent('Tên Configuration Group chỉ được phép sử dụng các ký tự A-Z, a-z, ký tự \'-\', \'_\', 0-9 và chứa ít nhất 1 chữ cái.\n', 
     true)
 

@@ -17,9 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Khi to Secondary Node - Create Node/h3_Khi to Secondary Node'), 
-    'Tạo Database Instances')
-
 WebUI.doubleClick(findTestObject('Page_Database Instances - List DB/div_To Database Instances'))
 
 WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/small_MongoDB'))

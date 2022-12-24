@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_auto_increment_offset</name>
+   <name>span_character_set_connection</name>
    <tag></tag>
-   <elementGuidId>6f9518bf-a9d3-43e6-bc60-08d557273b82</elementGuidId>
+   <elementGuidId>00bd40ac-b99b-4c58-9778-32dc9cda2036</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='auto_increment_increment'])[1]/following::span[1]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>li.el-select-dropdown__item.hover > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='character_set_client'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>2ab2d4ab-2d1f-4b55-a644-f77bc82d825a</webElementGuid>
+      <webElementGuid>1f2350a5-92f6-483d-a878-61141f4f8dd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>auto_increment_offset</value>
-      <webElementGuid>27a877f3-b060-4dbb-a3d1-90a732cd0e5c</webElementGuid>
+      <value>character_set_connection</value>
+      <webElementGuid>d0af5374-0ff9-47aa-a370-ed30137ec976</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,62 +38,62 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;el-select-dropdown el-popper bf-select-dropdown medium&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-select-dropdown__wrap el-scrollbar__wrap&quot;]/ul[@class=&quot;el-scrollbar__view el-select-dropdown__list&quot;]/li[@class=&quot;el-select-dropdown__item hover&quot;]/span[1]</value>
-      <webElementGuid>eaf74b91-0067-462a-8f73-dd06ddc83287</webElementGuid>
+      <webElementGuid>fabf72c3-f858-4852-8cbe-ccd0e04108f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='auto_increment_increment'])[1]/following::span[1]</value>
-      <webElementGuid>5882eb88-a7d1-4d77-a824-28df8b2da73b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='character_set_client'])[1]/following::span[1]</value>
+      <webElementGuid>f72903b0-d8c1-4f1e-9134-ef2bf9f2383f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='autocommit'])[1]/following::span[2]</value>
-      <webElementGuid>deacc7e1-63a1-493a-b822-b457e952186d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bulk_insert_buffer_size'])[1]/following::span[2]</value>
+      <webElementGuid>c1a4935e-84fb-4f81-94d0-ee27c0c1f5d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='bulk_insert_buffer_size'])[1]/preceding::span[1]</value>
-      <webElementGuid>acbc5488-634c-42b4-87c9-29efdbb20a7e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='character_set_database'])[1]/preceding::span[1]</value>
+      <webElementGuid>3dd708a2-44b8-4fa8-abff-50b339282f4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='character_set_client'])[1]/preceding::span[2]</value>
-      <webElementGuid>ea5d8a4f-d3a0-4004-a1d9-fbe69ee4d1c1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='character_set_filesystem'])[1]/preceding::span[2]</value>
+      <webElementGuid>89009a9c-a1c6-42f1-a2f2-543ec36ffea8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='auto_increment_offset']/parent::*</value>
-      <webElementGuid>0a041d2e-7a95-41c9-bad7-6edff1a0cf6c</webElementGuid>
+      <value>//*/text()[normalize-space(.)='character_set_connection']/parent::*</value>
+      <webElementGuid>85a90d24-f1cd-4f11-9670-028a5cb0a3fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div/ul/li[3]/span</value>
-      <webElementGuid>49f926ac-a138-4bc6-9d8f-60d74ac9175d</webElementGuid>
+      <value>//li[6]/span</value>
+      <webElementGuid>92850f65-ff13-4964-9277-e949f2726d6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'auto_increment_offset' or . = 'auto_increment_offset')]</value>
-      <webElementGuid>1b1fdd29-67e2-4616-92fe-78c175d47d42</webElementGuid>
+      <value>//span[(text() = 'character_set_connection' or . = 'character_set_connection')]</value>
+      <webElementGuid>cfe8e688-5e77-4f23-8eeb-76886f9f690f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
