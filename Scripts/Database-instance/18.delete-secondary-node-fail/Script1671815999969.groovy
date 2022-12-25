@@ -17,17 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
 WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instances/')
-
-WebUI.setText(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/input_Email_username'), 'chauphamthihoang@vccorp.vn')
-
-WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/i_Mt khu_fa fa-eye'))
-
-WebUI.setText(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/input_Mt khu_password'), 'Chau281120')
-
-WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/button_ng nhp'))
 
 WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/i_ACTIVE_bf-icon icon-m icon-more-horiz icon-color-default'))
 
@@ -40,12 +30,13 @@ CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Nodes
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Page_Nodes - Delete Node/i_ACTIVE_bf-icon icon-m icon-more-horiz icon-color-default'))
+WebUI.click(findTestObject('Page_Nodes - Delete Node/Page_Nodes - Bizfly Database Dashboard/p_mDzAG'))
 
-WebUI.click(findTestObject('Page_Nodes - Delete Node/span_Xa'))
+WebUI.delay(2)
 
-WebUI.setText(findTestObject('Page_Nodes - Delete Node/input_Vui lng nhp OK  xc nhn_el-input__inner'), 
-    'zzOK')
+WebUI.click(findTestObject('Page_Nodes - Delete Node/Page_Tong quan - Node/p_Xa'))
+
+WebUI.setText(findTestObject('Page_Nodes - Delete Node/input_Vui lng nhp OK  xc nhn_el-input__inner'), 'zzOK')
 
 WebUI.click(findTestObject('Page_Nodes - Delete Node/div_Xa'))
 

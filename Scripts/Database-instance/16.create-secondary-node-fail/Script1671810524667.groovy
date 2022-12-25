@@ -17,7 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.refresh()
+WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instances/')
+
+CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Database Instances - Bizfly Database Dashboard/button_To Database Instances'), 
+    'Tạo Database Instances')
+
+WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/i_ACTIVE_bf-icon icon-m icon-more-horiz icon-color-default'))
+
+WebUI.delay(1)
+
+WebUI.doubleClick(findTestObject('Page_Database Instances - List DB/span_Nodes'))
+
+CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Nodes - Bizfly Database Dashboard detail/span_Secondary Node'), 
+    'Secondary Node')
+
+WebUI.delay(1)
+
+WebUI.doubleClick(findTestObject('Page_Nodes - Bizfly Database Dashboard detail/span_To Secondary Node'))
 
 CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Khi to Secondary Node - Create Node/h3_Khi to Secondary Node'), 
     'Khởi tạo Secondary Node')

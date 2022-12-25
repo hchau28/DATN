@@ -17,17 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
 WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instances/')
-
-WebUI.setText(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/input_Email_username'), 'chauphamthihoang@vccorp.vn')
-
-WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/i_Mt khu_fa fa-eye'))
-
-WebUI.setText(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/input_Mt khu_password'), 'Chau281120')
-
-WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/button_ng nhp'))
 
 CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Database Instances - Bizfly Database Dashboard/button_To Database Instances'), 
     'Tạo Database Instances')
@@ -61,4 +51,6 @@ WebUI.delay(1)
 WebUI.doubleClick(findTestObject('Page_Khi to Secondary Node - Create Node/div_HN1'))
 
 WebUI.verifyTextPresent('Tên Secondary Node không được để trống', true)
+
+WebUI.closeBrowser()
 
