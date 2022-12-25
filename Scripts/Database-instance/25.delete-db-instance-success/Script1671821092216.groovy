@@ -17,17 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
 WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instances/')
-
-WebUI.setText(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/input_Email_username'), 'chauphamthihoang@vccorp.vn')
-
-WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/i_Mt khu_fa fa-eye'))
-
-WebUI.setText(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/input_Mt khu_password'), 'Chau281120')
-
-WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/button_ng nhp'))
 
 WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_Database Instances - Bizfly Database D_3ea25a/p_mmmmmmmmm'))
 
@@ -43,7 +33,11 @@ WebUI.doubleClick(findTestObject('Page_Xoa - DB/div_Xa'))
 
 WebUI.setText(findTestObject('Page_Xa - Bizfly Database Dashboard/input_Xa cc bn Backups_el-input__inner'), var1)
 
-WebUI.click(findTestObject('Page_Xa - Bizfly Database Dashboard/div_Xa'))
+WebUI.doubleClick(findTestObject('Page_Xoa - DB/button_Xoa'))
+
+WebUI.click(findTestObject('Page_Xoa - DB/div_Xoa'))
+
+WebUI.delay(3)
 
 WebUI.verifyTextPresent('Thành công', true)
 

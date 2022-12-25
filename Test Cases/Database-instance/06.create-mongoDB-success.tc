@@ -4,18 +4,5 @@
    <name>06.create-mongoDB-success</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f7b9e4a7-ee8a-4eb5-8c08-537888a86db9</testCaseGuid>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>b95bd0ae-77dc-4b7d-85b0-bdf68ce03f95</variableId>
-   </variableLinks>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>b95bd0ae-77dc-4b7d-85b0-bdf68ce03f95</id>
-      <masked>false</masked>
-      <name>var1</name>
-   </variable>
+   <testCaseGuid>59e80bd3-6e8e-471e-8024-eba709aeaf8f</testCaseGuid>
 </TestCaseEntity>

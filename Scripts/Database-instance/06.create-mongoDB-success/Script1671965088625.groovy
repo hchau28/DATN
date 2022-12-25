@@ -21,9 +21,34 @@ WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instance/
 
 WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/div_MongoDB'))
 
+WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/span_cng sau khi tng s khng th gim_el-checkbox__inner'))
+
+WebUI.setMaskedText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/Page_Khi to Database Instance - Bizfly Database Dashboard/input_cng sau khi tng s khng th gim_el-input__inner'), 
+    '50')
+
+WebUI.setMaskedText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/Page_Khi to Database Instance - Bizfly Database Dashboard/input_(gi tr l s nguyn trong khong t 50 n 95)_el-input__inner'), 
+    '10')
+
 WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/label_HN1'))
 
-WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/span_Xc nhn thng tin khi to'))
+WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/span_Configuration Group_el-checkbox__inner'))
 
-WebUI.verifyTextPresent('Database Instance không được để trống.\n', true)
+var1 = CustomKeywords.'myPackage.myKeywords.randomString'(5)
+
+WebUI.setText(findTestObject('Page_Khi to Database Instance - Create DB/Input nhap name db - Create DB/input__el-input__inner'), 
+    var1)
+
+WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/span_Xc nhn thng tin khi to'))
+
+WebUI.verifyTextPresent('Xác nhận mua gói cước', true)
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/button_Thanh ton'))
+
+WebUI.delay(3)
+
+WebUI.verifyTextPresent('Thành công ', true)
+
+WebUI.closeBrowser()
 

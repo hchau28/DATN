@@ -17,33 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_Database Instances - Bizfly Database D_3ea25a/button_To Database Instances'))
+WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instance/create')
 
 WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/div_MongoDB'))
 
-WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/span_cng sau khi tng s khng th gim_el-checkbox__inner'))
+WebUI.setMaskedText(findTestObject('Input nhap name db - Create DB/input__el-input__inner - capacity of disk'), '180')
 
-WebUI.setMaskedText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/Page_Khi to Database Instance - Bizfly Database Dashboard/input_cng sau khi tng s khng th gim_el-input__inner'), 
-    '50')
+WebUI.click(findTestObject('Input nhap name db - Create DB/label_HN2'))
 
-WebUI.setMaskedText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/Page_Khi to Database Instance - Bizfly Database Dashboard/input_(gi tr l s nguyn trong khong t 50 n 95)_el-input__inner'), 
-    '10')
+WebUI.click(findTestObject('Input nhap name db - Create DB/span_Configuration Group_el-checkbox__inner'))
 
-WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/label_HN1'))
+var1 = CustomKeywords.'myPackage.myKeywords.randomString'(31)
 
-WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/span_Configuration Group_el-checkbox__inner'))
-
-var1 = CustomKeywords.'myPackage.myKeywords.randomString'(5)
-
-WebUI.setText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/input__el-input__inner'), var1)
+WebUI.setText(findTestObject('Page_Khi to Database Instance - Create DB/Input nhap name db - Create DB/input__el-input__inner'), 
+    var1)
 
 WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/span_Xc nhn thng tin khi to'))
 
 WebUI.verifyTextPresent('Xác nhận mua gói cước', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/button_Thanh ton'))
+WebUI.doubleClick(findTestObject('Page_Khi to Database Instance - Create DB/div_Thanh ton'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
-WebUI.verifyTextPresent('Thành công ', true)
+CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Khi to Database Instance - Create DB/Page_Database Instances - Thong bao/h2_Thnh cng'), 
+    'Thành công')
+
+WebUI.closeBrowser()
 

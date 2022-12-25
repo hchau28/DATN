@@ -52,6 +52,7 @@ class myKeywords {
 
 			sb.append(chars.charAt(rand.nextInt(chars.length())));
 		}
+		System.out.println(sb+"...string");
 
 		return sb.toString();
 	}
@@ -60,11 +61,6 @@ class myKeywords {
 	def clickElement(TestObject to) {
 		try {
 			WebElement element = WebUiBuiltInKeywords.findWebElement(to);
-			if (element != null) {
-				System.out.println('hihi')
-			}else {
-				System.out.println('huhuh')
-			}
 			KeywordUtil.logInfo("Clicking element")
 			element.click()
 			element.getText()
@@ -82,7 +78,7 @@ class myKeywords {
 			WebElement element = WebUiBuiltInKeywords.findWebElement(to);
 			if (!!element) {
 				int count = 0; // second
-				int maxCount = 20; //seconds
+				int maxCount = 7; //seconds
 				String str = element.getText();
 				Boolean isExists = element.getText().contains(text);
 				System.out.println(isExists);
