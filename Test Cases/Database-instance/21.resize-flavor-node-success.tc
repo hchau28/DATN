@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>21.resize-flavor-node-success</name>
+   <tag>create-secondary-node</tag>
+   <comment></comment>
+   <testCaseGuid>0072fccc-2e2b-4649-9baa-a0dd825056e3</testCaseGuid>
+</TestCaseEntity>

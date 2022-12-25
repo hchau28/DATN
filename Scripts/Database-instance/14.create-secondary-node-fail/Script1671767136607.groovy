@@ -30,11 +30,13 @@ WebUI.setText(findTestObject('Object Repository/delete_db_instance/Page_ng nhp -
 WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/button_ng nhp'))
 
 CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Database Instances - Bizfly Database Dashboard/button_To Database Instances'), 
-    'Tạo Database Instance')
+    'Tạo Database Instances')
 
 WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/i_ACTIVE_bf-icon icon-m icon-more-horiz icon-color-default'))
 
-WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/span_Nodes'))
+WebUI.delay(1)
+
+WebUI.doubleClick(findTestObject('Page_Database Instances - List DB/span_Nodes'))
 
 CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Nodes - Bizfly Database Dashboard detail/span_Secondary Node'), 
     'Secondary Node')

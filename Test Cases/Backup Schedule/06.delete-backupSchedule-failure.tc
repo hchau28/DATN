@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06.delete-backupSchedule-failure</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad4c7343-92ff-4e69-bef6-ef16d40e5f8b</testCaseGuid>
+</TestCaseEntity>

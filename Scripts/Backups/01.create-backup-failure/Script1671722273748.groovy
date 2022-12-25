@@ -21,11 +21,7 @@ WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/
 
 WebUI.click(findTestObject('Page_Backups - Bizfly Database Dashboard/div_To backup'))
 
-WebUI.click(findTestObject('Page_To backup - Bizfly Database Dashboard/i__el-select__caret el-input__icon el-icon-arrow-up'))
-
-WebUI.click(findTestObject('Page_To backup - Bizfly Database Dashboard/p_dbbbbbbbb-primary-qaxx11fc'))
-
-WebUI.setText(findTestObject('Page_To backup - Bizfly Database Dashboard/input__el-input__inner'), '')
+WebUI.click(findTestObject('Page_To backup - Bizfly Database Dashboard/input__el-input__inner'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Page_To backup - Bizfly Database Dashboard/button_To backup'))
 

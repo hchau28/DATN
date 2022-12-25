@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "73AC6CB1CB920012E6D265D97C9B1DBD",
+  "keywordFileContentHash": "4D44F2870725C779103E416ADAD5688B",
   "keywordClasses": [
     {
       "name": "myPackage.myKeywords",
@@ -20,8 +20,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "clickElement",
@@ -39,8 +38,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "checkTextExists",
@@ -71,11 +69,10 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

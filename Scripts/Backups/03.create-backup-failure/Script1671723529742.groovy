@@ -17,13 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.refresh()
+
 WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/div_Backups'))
 
 WebUI.click(findTestObject('Page_Backups - Bizfly Database Dashboard/div_To backup'))
-
-WebUI.click(findTestObject('Page_To backup - Bizfly Database Dashboard/i__el-select__caret el-input__icon el-icon-arrow-up'))
-
-WebUI.click(findTestObject('Page_To backup - Bizfly Database Dashboard/p_dbbbbbbbb-primary-qaxx11fc'))
 
 var1 = CustomKeywords.'myPackage.myKeywords.randomString'(256)
 
@@ -31,5 +29,5 @@ WebUI.setText(findTestObject('Page_To backup - Bizfly Database Dashboard/input__
 
 WebUI.click(findTestObject('Page_To backup - Bizfly Database Dashboard/button_To backup'))
 
-WebUI.verifyTextPresent('', true)
+WebUI.verifyTextPresent('Đặt tên bản Backup phải nằm trong khoảng từ 1 - 255\n', true)
 

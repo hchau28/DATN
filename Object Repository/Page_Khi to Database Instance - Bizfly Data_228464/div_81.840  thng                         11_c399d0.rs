@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='carousel_rqpzjpvmz9i']/div/div/div/div/div</value>
+         <value>//div[@id='carousel_yd39vp44j59']/div/div/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>cebcb592-0277-4b7b-9ac8-756113183228</webElementGuid>
+      <webElementGuid>ed0e5596-71fd-4421-b62c-d89eec6ba576</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>el-tooltip border-radius-2xs border-solid cursor-pointer flavor-item border-primary lighten-50 border-width-2 focusing</value>
-      <webElementGuid>6e89f095-4e32-4632-abdf-6f81ffe88d94</webElementGuid>
+      <webElementGuid>8b36aa3c-e2ce-41b5-b4d2-a49bd72e6cfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>el-tooltip-7312</value>
-      <webElementGuid>737a28a0-9321-4219-9bf2-ce0fd8d82a22</webElementGuid>
+      <value>el-tooltip-8285</value>
+      <webElementGuid>f8331cda-b224-4f3a-bff1-0928fa406bc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b63215aa-5406-4609-b746-c87601c07f08</webElementGuid>
+      <webElementGuid>1b568efc-f056-4859-85f1-28339882da9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,23 +58,23 @@
              
             110đ / giờ
             GB</value>
-      <webElementGuid>d38f7644-20c3-4dee-b210-e347d6eabf8c</webElementGuid>
+      <webElementGuid>ffeb1e23-e851-4d5c-be9b-ab1f1c2edcf8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;carousel_rqpzjpvmz9i&quot;)/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active&quot;]/div[@class=&quot;bf-carousel-item&quot;]/div[@class=&quot;el-tooltip border-radius-2xs border-solid cursor-pointer flavor-item border-primary lighten-50 border-width-2 focusing&quot;]</value>
-      <webElementGuid>cf65da4a-ff55-48b5-982e-df4c38802fdb</webElementGuid>
+      <value>id(&quot;carousel_yd39vp44j59&quot;)/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active&quot;]/div[@class=&quot;bf-carousel-item&quot;]/div[@class=&quot;el-tooltip border-radius-2xs border-solid cursor-pointer flavor-item border-primary lighten-50 border-width-2 focusing&quot;]</value>
+      <webElementGuid>a50449ae-be14-4102-a666-e347f795f967</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='carousel_rqpzjpvmz9i']/div/div/div/div/div</value>
-      <webElementGuid>12533159-5d8a-41e0-83db-8d54afc817f6</webElementGuid>
+      <value>//div[@id='carousel_yd39vp44j59']/div/div/div/div/div</value>
+      <webElementGuid>172c4f9b-4623-4101-9495-322b8c71c4a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[22]</value>
-      <webElementGuid>e97994b9-a767-45fe-b056-2ffd84fc4742</webElementGuid>
+      <webElementGuid>41865078-3c24-4cff-8ec0-8483afb265d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='next'])[2]/preceding::div[30]</value>
-      <webElementGuid>2155edee-baa2-4d8f-913e-75ee94380043</webElementGuid>
+      <webElementGuid>cf06cef5-4a70-4b9c-a74b-41f096d14d39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='prev'])[2]/preceding::div[31]</value>
-      <webElementGuid>97a7e7c3-1185-4c36-aad0-5b359881cf9e</webElementGuid>
+      <webElementGuid>a3d057c9-fb91-4399-85fa-043fc7663cad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div/div/div[2]/div/div/div/div/div/div/div</value>
-      <webElementGuid>a86e44b0-3b4c-46f3-bc45-6cd346d03c0d</webElementGuid>
+      <webElementGuid>8e7f9f7e-dee3-4ceb-8968-fe2566b655b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,6 +122,6 @@
              
             110đ / giờ
             GB')]</value>
-      <webElementGuid>41ead5dd-e55a-4ad1-868a-3fa1c3f21f9e</webElementGuid>
+      <webElementGuid>10782f14-17d6-46de-831d-d223c9fefe7b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

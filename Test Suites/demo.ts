@@ -19,16 +19,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>5832a9a4-8c71-47d2-a450-e369201e0ffe</guid>
+      <guid>2672a447-6432-48cc-b827-af2efe9b6727</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Database-instance/04.create-mongoDB-success</testCaseId>
+      <testCaseId>Test Cases/Backup Schedule/02.create-backupSchedule-failure</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>5a5cbe95-ef13-45dc-88d5-d3e1c7706420</variableId>
-      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

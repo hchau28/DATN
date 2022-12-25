@@ -17,10 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Khi to Secondary Node - Create Node/h3_Khi to Secondary Node'), 
-    'Tạo Database Instances')
-
-WebUI.doubleClick(findTestObject('Page_Database Instances - List DB/div_To Database Instances'))
+WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instance/create')
 
 WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/small_MongoDB'))
 
@@ -38,7 +35,7 @@ WebUI.verifyTextPresent('Xác nhận mua gói cước', true)
 
 WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/div_Thanh ton'))
 
-WebUI.delay(3)
+WebUI.delay(4)
 
 WebUI.verifyTextPresent('Thành công', true)
 

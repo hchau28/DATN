@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>99eb696c-e558-4d5f-b419-93c249054d2f</webElementGuid>
+      <webElementGuid>2ab2d4ab-2d1f-4b55-a644-f77bc82d825a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>auto_increment_offset</value>
-      <webElementGuid>8be73674-f935-4685-b9ee-45faa7725d0b</webElementGuid>
+      <webElementGuid>27a877f3-b060-4dbb-a3d1-90a732cd0e5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;el-select-dropdown el-popper bf-select-dropdown medium&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-select-dropdown__wrap el-scrollbar__wrap&quot;]/ul[@class=&quot;el-scrollbar__view el-select-dropdown__list&quot;]/li[@class=&quot;el-select-dropdown__item hover&quot;]/span[1]</value>
-      <webElementGuid>0d55d473-4ce3-42c7-8829-4fae8f394db8</webElementGuid>
+      <webElementGuid>eaf74b91-0067-462a-8f73-dd06ddc83287</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='auto_increment_increment'])[1]/following::span[1]</value>
-      <webElementGuid>7d185ef5-0fcd-48bd-a208-56d4981276ac</webElementGuid>
+      <webElementGuid>5882eb88-a7d1-4d77-a824-28df8b2da73b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='autocommit'])[1]/following::span[2]</value>
-      <webElementGuid>f274072f-7d25-4c72-bc80-6ad8acb0f1c2</webElementGuid>
+      <webElementGuid>deacc7e1-63a1-493a-b822-b457e952186d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='bulk_insert_buffer_size'])[1]/preceding::span[1]</value>
-      <webElementGuid>6a7ae2ba-4a0b-42e0-92a6-d146bd6a2a1d</webElementGuid>
+      <webElementGuid>acbc5488-634c-42b4-87c9-29efdbb20a7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='character_set_client'])[1]/preceding::span[2]</value>
-      <webElementGuid>87c60124-923c-4690-9468-9319cbd1aa34</webElementGuid>
+      <webElementGuid>ea5d8a4f-d3a0-4004-a1d9-fbe69ee4d1c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='auto_increment_offset']/parent::*</value>
-      <webElementGuid>df61465b-0c80-4c12-a923-70d3d62671f3</webElementGuid>
+      <webElementGuid>0a041d2e-7a95-41c9-bad7-6edff1a0cf6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/ul/li[3]/span</value>
-      <webElementGuid>8928f88c-bc9b-4b65-816f-b428bf0cd123</webElementGuid>
+      <webElementGuid>49f926ac-a138-4bc6-9d8f-60d74ac9175d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'auto_increment_offset' or . = 'auto_increment_offset')]</value>
-      <webElementGuid>66ba6756-0299-4d8e-845b-efba7063b0b3</webElementGuid>
+      <webElementGuid>1b1fdd29-67e2-4616-92fe-78c175d47d42</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Khi ng li Node</name>
+   <tag></tag>
+   <elementGuidId>50df72f9-3e2d-4ca0-b5f8-0e336136aa6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[3]/div[4]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>32276034-9fce-45c2-bccc-aa7320469a97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-100</value>
+      <webElementGuid>407b9006-f1c2-4c5e-b203-6ef87e499920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Khởi động lại Node</value>
+      <webElementGuid>cd34a68f-808d-4253-81b5-b8c6dfbdae6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;node-detail-layout&quot;]/div[@class=&quot;router-view&quot;]/div[1]/div[3]/div[@class=&quot;el-card is-never-shadow border in mb-l&quot;]/div[@class=&quot;el-card__header&quot;]/div[@class=&quot;el-card__header__custom&quot;]/div[@class=&quot;w-100 el-row is-justify-space-between is-align-middle&quot;]/div[@class=&quot;w-100&quot;]</value>
+      <webElementGuid>41519fb3-c559-4771-8b52-4654a1811e31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[3]/div[4]/div/div/div/div</value>
+      <webElementGuid>a08cedf7-6cf1-4f5a-b631-605f2c6d6a09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm mới'])[1]/following::div[5]</value>
+      <webElementGuid>b0ab5d1a-905a-487a-8c43-0268d4315753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Không có dữ liệu'])[2]/following::div[8]</value>
+      <webElementGuid>136bf3f1-46d9-4684-926f-ecf6c16021e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lưu ý: Khởi động lại Node sẽ gây gián đoạn kết nối đến Node.'])[1]/preceding::div[4]</value>
+      <webElementGuid>dbaa25b7-78c1-49e9-bd1f-9fcb1c6f48e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khởi động lại'])[1]/preceding::div[11]</value>
+      <webElementGuid>3195c0c2-0fa7-429d-8753-0190b40fedde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Khởi động lại Node']/parent::*</value>
+      <webElementGuid>5b1dfdd9-37fc-451c-91e0-11155b9d3e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]/div/div/div/div</value>
+      <webElementGuid>78aac6f7-e0b7-4572-8449-7e0bc4fa956c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Khởi động lại Node' or . = 'Khởi động lại Node')]</value>
+      <webElementGuid>e705c8e1-d553-436b-8f49-6cd08b12ff4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_i cu hnh</name>
+   <tag></tag>
+   <elementGuidId>dc0bd014-4427-4bb4-9f94-7cbf6dc454b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.el-tooltip.focusing</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[3]/div/div/div/div/div/div/button/span/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>33948fca-20ee-4af7-a513-fcb556c6aaff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-tooltip focusing</value>
+      <webElementGuid>32bb438f-6e79-4254-9942-2d07645a1e27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>el-tooltip-7822</value>
+      <webElementGuid>6a66eb37-d88e-4037-a401-fd46b09375c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ca78c265-8f35-4b76-af15-591cc0ce65c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đổi cấu hình</value>
+      <webElementGuid>6c9fedc6-f745-4584-a575-7aa394b78ad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;node-detail-layout&quot;]/div[@class=&quot;router-view&quot;]/div[1]/div[3]/div[@class=&quot;el-card is-never-shadow border in mb-l&quot;]/div[@class=&quot;el-card__header&quot;]/div[@class=&quot;el-card__header__custom&quot;]/div[@class=&quot;w-100 el-row is-justify-space-between is-align-middle&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;el-row is-justify-space-between is-align-middle el-row--flex&quot;]/button[@class=&quot;el-button bf-button el-button--primary el-button--default&quot;]/span[1]/div[@class=&quot;button-content&quot;]/span[@class=&quot;el-tooltip focusing&quot;]</value>
+      <webElementGuid>a840aba1-d9a8-4b5e-8133-5a1ad5073f0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[3]/div/div/div/div/div/div/button/span/div/span</value>
+      <webElementGuid>c999b814-691a-44d6-8a31-e1b56bc96c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thay đổi cấu hình'])[1]/following::span[2]</value>
+      <webElementGuid>a42e747b-c9c2-4731-a32b-90229ce33728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cấu hình:'])[1]/following::span[3]</value>
+      <webElementGuid>1a781ee6-7364-446e-88e1-c7bc45bdb28e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='next'])[1]/preceding::span[3]</value>
+      <webElementGuid>c6e72209-7bc8-4aad-8f4b-6ff896362f5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='prev'])[1]/preceding::span[3]</value>
+      <webElementGuid>3b43fa2a-9979-4b69-bdf0-ccfa3281ed13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đổi cấu hình']/parent::*</value>
+      <webElementGuid>1b4c3429-a0fd-46bd-b306-b798ca567717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/button/span/div/span</value>
+      <webElementGuid>e7a072ca-b2cd-4455-bcb6-34a504119903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Đổi cấu hình' or . = 'Đổi cấu hình')]</value>
+      <webElementGuid>a585f420-0f7b-4eba-b572-778d945964d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

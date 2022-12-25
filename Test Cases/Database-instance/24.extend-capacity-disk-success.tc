@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>24.extend-capacity-disk-success</name>
+   <tag>create-secondary-node</tag>
+   <comment></comment>
+   <testCaseGuid>98a78289-9319-4ea2-b443-5fb0cf9d0d88</testCaseGuid>
+</TestCaseEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>b870eb99-7ef0-41be-8905-f4e1fcf0d978</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.el-select-dropdown.el-popper.is-multiple.bf-select-dropdown.medium > div.el-scrollbar > div.el-select-dropdown__wrap.el-scrollbar__wrap > ul.el-scrollbar__view.el-select-dropdown__list > li.el-select-dropdown__item.hover</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::li[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::li[3]</value>
+         <key>CSS</key>
+         <value>li.el-select-dropdown__item.hover</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>a0eb1e4c-098a-4704-8856-481b396ee1ef</webElementGuid>
+      <webElementGuid>9bbcae97-37c1-4c86-9fd2-2959603a5513</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>el-select-dropdown__item hover</value>
-      <webElementGuid>6e95f8ee-3060-41cf-8b49-bea995a1611a</webElementGuid>
+      <webElementGuid>4b81e7f1-1989-45e8-b9a8-4c6c1aaeed9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>5 phút</value>
-      <webElementGuid>63120f87-ecb3-4b35-99fa-122b93cb8697</webElementGuid>
+      <webElementGuid>6543406b-9a58-40cc-b1fc-9466671b23c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,31 +46,31 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;el-select-dropdown el-popper is-multiple bf-select-dropdown medium&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-select-dropdown__wrap el-scrollbar__wrap&quot;]/ul[@class=&quot;el-scrollbar__view el-select-dropdown__list&quot;]/li[@class=&quot;el-select-dropdown__item hover&quot;]</value>
-      <webElementGuid>65dd813d-40f1-4c1c-b598-971301851cfb</webElementGuid>
+      <webElementGuid>0965f750-d0a3-4a73-a762-ec786ef59a59</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::li[3]</value>
-      <webElementGuid>f6f875f3-eb03-4bd8-ab71-c4be915f73fa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::li[2]</value>
+      <webElementGuid>93dce6de-538d-488f-8202-b4d65f511787</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::li[3]</value>
-      <webElementGuid>4df36e4b-f90d-42c5-8abb-e7e5e36e14eb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::li[2]</value>
+      <webElementGuid>bc811166-eb4c-4cde-8ea3-72182bf21d5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/div/ul/li[2]</value>
-      <webElementGuid>c8ecd3a9-4b33-4228-80f9-137c1d466dc5</webElementGuid>
+      <value>//div[3]/div/div/ul/li[2]</value>
+      <webElementGuid>70b00922-2cd8-40ab-bde5-c49e2516b3a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = '5 phút' or . = '5 phút')]</value>
-      <webElementGuid>e46d32d5-12b0-40f8-b2bf-25143ff1eb33</webElementGuid>
+      <webElementGuid>d300de84-f3d2-47d0-b747-c50d0720e3ca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

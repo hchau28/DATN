@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ACTIVE_bf-icon icon-m icon-more-horiz icon-color-default</name>
+   <tag></tag>
+   <elementGuidId>b092f9bf-cf30-4165-b328-4a2e43011449</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bf-icon.icon-m.icon-more-horiz.icon-color-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div/div/div/div[3]/table/tbody/tr/td[7]/div/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>dd7428bf-4eda-4441-9ab7-73c731cee517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bf-icon icon-m icon-more-horiz icon-color-default</value>
+      <webElementGuid>b7c78d57-93af-4ae9-9953-f905cc47c3c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view px-xl&quot;]/div[@class=&quot;instances&quot;]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-0&quot;]/div[1]/div[@class=&quot;content-slot pt-m&quot;]/div[@class=&quot;el-table el-table--fit el-table--scrollable-x el-table--enable-row-hover el-table--enable-row-transition bf-table-action&quot;]/div[@class=&quot;el-table__body-wrapper is-scrolling-right&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_1_column_7&quot;]/div[@class=&quot;cell&quot;]/div[@class=&quot;el-dropdown&quot;]/div[@class=&quot;wrapper-icon text-gray el-dropdown-selfdefine  focusing&quot;]/i[@class=&quot;bf-icon icon-m icon-more-horiz icon-color-default&quot;]</value>
+      <webElementGuid>0154bdcf-654a-457e-a153-53e99de65a2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div/div/div/div[3]/table/tbody/tr/td[7]/div/div/div/i</value>
+      <webElementGuid>d8132509-bc5a-4a4d-b444-aa805cbfd40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/div/div/i</value>
+      <webElementGuid>2a617bb8-2576-45f2-ae99-6aaa147da0d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

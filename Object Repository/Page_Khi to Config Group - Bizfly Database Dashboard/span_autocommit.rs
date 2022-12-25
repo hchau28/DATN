@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_autocommit</name>
+   <tag></tag>
+   <elementGuidId>2dd84d23-b778-414a-9cff-11c337f0495b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.el-select-dropdown__item > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8d0559e5-f29c-4b29-8a43-f7b45b20adb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>autocommit</value>
+      <webElementGuid>46ebfbc2-5557-4204-a30a-82fdb7c0cfa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;el-select-dropdown el-popper bf-select-dropdown medium&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-select-dropdown__wrap el-scrollbar__wrap&quot;]/ul[@class=&quot;el-scrollbar__view el-select-dropdown__list&quot;]/li[@class=&quot;el-select-dropdown__item&quot;]/span[1]</value>
+      <webElementGuid>a0665b21-d3b0-45e1-92d9-211f3165cd90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::span[1]</value>
+      <webElementGuid>92d4bba3-c900-45ad-bc8e-944fa5c58424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::span[1]</value>
+      <webElementGuid>3c430e79-6f96-4f02-a933-b8a629c38ac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='auto_increment_increment'])[1]/preceding::span[1]</value>
+      <webElementGuid>0a89b3d9-16d9-4958-88b1-d94263cdae62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='auto_increment_offset'])[1]/preceding::span[2]</value>
+      <webElementGuid>f4772747-4a07-4577-832d-a8aeee8eab0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='autocommit']/parent::*</value>
+      <webElementGuid>cecb1c7a-7599-433c-b817-868298266187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li/span</value>
+      <webElementGuid>b3615a5e-e11f-4bdc-9010-e805db7e7998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'autocommit' or . = 'autocommit')]</value>
+      <webElementGuid>97c642f0-e0d3-48df-8f59-144f88c5526e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

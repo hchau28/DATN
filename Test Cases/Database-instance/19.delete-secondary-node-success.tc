@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>19.delete-secondary-node-success</name>
+   <tag>create-secondary-node</tag>
+   <comment></comment>
+   <testCaseGuid>c4c53fbf-9090-40d0-a931-264beacc11d3</testCaseGuid>
+</TestCaseEntity>

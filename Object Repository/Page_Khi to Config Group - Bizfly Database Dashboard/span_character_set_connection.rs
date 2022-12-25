@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_character_set_connection</name>
+   <tag></tag>
+   <elementGuidId>00bd40ac-b99b-4c58-9778-32dc9cda2036</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.el-select-dropdown__item.hover > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='character_set_client'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1f2350a5-92f6-483d-a878-61141f4f8dd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>character_set_connection</value>
+      <webElementGuid>d0af5374-0ff9-47aa-a370-ed30137ec976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;el-select-dropdown el-popper bf-select-dropdown medium&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-select-dropdown__wrap el-scrollbar__wrap&quot;]/ul[@class=&quot;el-scrollbar__view el-select-dropdown__list&quot;]/li[@class=&quot;el-select-dropdown__item hover&quot;]/span[1]</value>
+      <webElementGuid>fabf72c3-f858-4852-8cbe-ccd0e04108f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='character_set_client'])[1]/following::span[1]</value>
+      <webElementGuid>f72903b0-d8c1-4f1e-9134-ef2bf9f2383f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bulk_insert_buffer_size'])[1]/following::span[2]</value>
+      <webElementGuid>c1a4935e-84fb-4f81-94d0-ee27c0c1f5d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='character_set_database'])[1]/preceding::span[1]</value>
+      <webElementGuid>3dd708a2-44b8-4fa8-abff-50b339282f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='character_set_filesystem'])[1]/preceding::span[2]</value>
+      <webElementGuid>89009a9c-a1c6-42f1-a2f2-543ec36ffea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='character_set_connection']/parent::*</value>
+      <webElementGuid>85a90d24-f1cd-4f11-9670-028a5cb0a3fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/span</value>
+      <webElementGuid>92850f65-ff13-4964-9277-e949f2726d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'character_set_connection' or . = 'character_set_connection')]</value>
+      <webElementGuid>cfe8e688-5e77-4f23-8eeb-76886f9f690f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

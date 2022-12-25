@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Xa</name>
+   <tag></tag>
+   <elementGuidId>8302b003-4320-4724-ba8f-a6cca83295ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.el-button.bf-button.el-button--danger.el-button--default > span > div.button-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div[3]/div[2]/div[2]/div/button/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bd55a0a1-05f9-49f5-9057-67cfd5255c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-content</value>
+      <webElementGuid>1bd6bc5e-164f-48d2-b3a9-709441191314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Xóa </value>
+      <webElementGuid>6665e5ea-7a2c-4275-bce1-44d5bcf7897f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;node-detail-layout&quot;]/div[@class=&quot;router-view px-xl&quot;]/div[1]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__footer&quot;]/div[@class=&quot;p-m el-row is-justify-end el-row--flex&quot;]/button[@class=&quot;el-button bf-button el-button--danger el-button--default&quot;]/span[1]/div[@class=&quot;button-content&quot;]</value>
+      <webElementGuid>e4b8c305-399d-4733-bc59-f928854d9401</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div[3]/div[2]/div[2]/div/button/span/div</value>
+      <webElementGuid>e6c05365-0a1a-42d1-98bd-34d7cfa961e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giá trị không được để trống.'])[1]/following::div[3]</value>
+      <webElementGuid>ea52a81a-e731-4e5c-ab15-338cbc1ea493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vui lòng nhập OK để xác nhận.'])[1]/following::div[6]</value>
+      <webElementGuid>2e4a378b-d3b1-47bf-9c2f-200518a65874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tài liệu hướng dẫn'])[1]/preceding::div[1]</value>
+      <webElementGuid>47fe6c82-66d2-411a-a954-9afa25736d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[14]</value>
+      <webElementGuid>15156b88-2af4-408f-8c6b-bc50ed538670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]/div/button/span/div</value>
+      <webElementGuid>8952d519-a52a-4e4f-a680-fa492dc860ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Xóa ' or . = ' Xóa ')]</value>
+      <webElementGuid>e610ca4d-fefe-487b-a631-a747a24ea7af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>3f26b885-7b86-4d01-b55f-9319e8a5cb73</webElementGuid>
+      <webElementGuid>843da6e7-d904-4477-9b38-b9a8a91abc56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>role</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>99eb4134-a3a9-47d8-9d5b-3b31e72231ff</webElementGuid>
+      <webElementGuid>4af2ea10-e4ea-4f5f-9e3d-7edbd458d205</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>b2fbb919-c8fa-4688-9d25-5c99f9d26b4b</webElementGuid>
+      <webElementGuid>524bbf80-1aee-4b3f-907e-8abad783ffe6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>el-radio w-100 p-m mr-xs is-bordered label-xs hide-checker</value>
-      <webElementGuid>f26aee7b-46a0-4f14-82cb-ec33bc7b6811</webElementGuid>
+      <webElementGuid>9022a585-ecfd-4f8e-949f-3545f0a7e0e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>labelsize</name>
       <type>Main</type>
       <value>xs</value>
-      <webElementGuid>967148bb-b982-4cc8-8285-d7c55e80340a</webElementGuid>
+      <webElementGuid>4be3f090-4220-447c-886d-7ebf61f1b8d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <value> 
           HN1
         </value>
-      <webElementGuid>852a7e98-ae5f-4746-a53b-859667695a68</webElementGuid>
+      <webElementGuid>6c607436-88be-4565-8540-a13fe1e43678</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;project-create-layout&quot;]/div[@class=&quot;router-view&quot;]/div[1]/div[@class=&quot;el-card is-never-shadow border in mb-l&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/div[1]/div[@class=&quot;el-radio-group w-100&quot;]/div[@class=&quot;select-region&quot;]/label[@class=&quot;el-radio w-100 p-m mr-xs is-bordered label-xs hide-checker&quot;]</value>
-      <webElementGuid>a85fa2d0-1f6a-4f4c-92f6-f9c411597e26</webElementGuid>
+      <webElementGuid>b50cce8c-5a96-4a9b-ba9f-d7aa06bba3f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div/div[6]/div[2]/div/div/div/div/div/label[2]</value>
-      <webElementGuid>3b7501db-4867-4e96-9c7f-0cca3473ed96</webElementGuid>
+      <webElementGuid>49ccd7b3-a121-42c6-bfd3-e48a269f6bbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='HN2'])[1]/following::label[1]</value>
-      <webElementGuid>5a9ec604-69f7-498d-9cd5-280d72784d29</webElementGuid>
+      <webElementGuid>950fee78-af89-4bbd-9c6a-be00f6e460a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::label[2]</value>
-      <webElementGuid>056ace7a-4981-45d1-9042-8363789334a3</webElementGuid>
+      <webElementGuid>227efeed-cdcf-4ad2-ab47-f719544c5043</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label[2]</value>
-      <webElementGuid>a459ff77-20ca-4757-a9ea-21a7a900d077</webElementGuid>
+      <webElementGuid>3563eda8-ce43-4c4d-a19c-3c92e94c997e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,6 +116,6 @@
         ' or . = ' 
           HN1
         ')]</value>
-      <webElementGuid>e84861c7-4c60-4fa8-8dd0-0231e36ebfa7</webElementGuid>
+      <webElementGuid>abddb0ae-3621-4393-bf67-07b4ab7aa5b2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

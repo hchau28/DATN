@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ci t</name>
+   <tag></tag>
+   <elementGuidId>c90d1cc4-ff95-446e-95f5-10449ea35435</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dropdown-menu-5689']/li[6]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>41408ab2-345c-4c27-8494-5bf58b166858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cài đặt</value>
+      <webElementGuid>427f2c89-71f5-46b5-8c69-5dea7169dfba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-menu-5689&quot;)/li[@class=&quot;el-dropdown-menu__item bf-dropdown-item&quot;]/span[1]</value>
+      <webElementGuid>d3a6573b-49a9-4b6e-b5de-1153e2c00e1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dropdown-menu-5689']/li[6]/span</value>
+      <webElementGuid>0b8f2845-52a3-475c-9b58-83cf30678d38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Theo dõi'])[3]/following::span[1]</value>
+      <webElementGuid>7c7b47d4-aa36-4186-b127-423fd2add383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Network'])[3]/following::span[2]</value>
+      <webElementGuid>1c9219bc-451e-4670-ac56-e6e1c374618e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/ul/li[6]/span</value>
+      <webElementGuid>328a16e4-9729-4e9c-8599-3c6bfee75f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cài đặt' or . = 'Cài đặt')]</value>
+      <webElementGuid>cf7d68d2-51ee-49d3-ada5-f6cb252a4bd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

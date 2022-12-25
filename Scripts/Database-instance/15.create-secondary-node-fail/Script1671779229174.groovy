@@ -38,5 +38,3 @@ WebUI.doubleClick(findTestObject('Page_Khi to Secondary Node - Create Node/div_H
 
 WebUI.verifyTextPresent('Tên Secondary Node từ 5 đến 46 kí tự', true)
 
-WebUI.closeBrowser()
-

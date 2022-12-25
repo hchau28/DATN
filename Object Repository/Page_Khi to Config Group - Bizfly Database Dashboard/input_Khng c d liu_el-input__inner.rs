@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.el-select.bf-select.border-top-right-radius-0.border-bottom-right-radius-0.w-100.selectSize > div.el-input.el-input--suffix > input.el-input__inner</value>
+         <value>div.el-input.el-input--suffix.is-focus > input.el-input__inner</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5dc9b8da-9edf-4680-8fe5-8789c7040b18</webElementGuid>
+      <webElementGuid>38c19238-25bb-4b71-8d8d-dd5eb63d9cc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>1c0165eb-2e5f-458f-9ca5-636a47360ba6</webElementGuid>
+      <webElementGuid>89e461d6-36cf-4fea-ae7f-af7ca8cceb62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>5b2669ef-ef37-4d97-869a-ff2e59095055</webElementGuid>
+      <webElementGuid>7db3153b-b504-480a-a875-752a329c157a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Chọn</value>
-      <webElementGuid>3e7e5e8c-615a-4af1-b9f3-a3710d498b50</webElementGuid>
+      <webElementGuid>23e891b3-f72b-49cf-bf3a-2542bc5da61a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,23 +54,15 @@
       <name>class</name>
       <type>Main</type>
       <value>el-input__inner</value>
-      <webElementGuid>b47deff0-caad-4538-9715-a7012f82b4ba</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>readonly</name>
-      <type>Main</type>
-      <value>readonly</value>
-      <webElementGuid>8ad1a280-0030-4bc0-8ef4-b2bd030dd7da</webElementGuid>
+      <webElementGuid>94a79eea-6448-4528-bbf9-2ac832cb3f3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[@class=&quot;config-cdb&quot;]/div[@class=&quot;el-card is-never-shadow border in mt-l&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__footer&quot;]/div[1]/div[@class=&quot;el-row el-row--flex p-m w-50&quot;]/div[@class=&quot;el-select bf-select border-top-right-radius-0 border-bottom-right-radius-0 w-100 selectSize&quot;]/div[@class=&quot;el-input el-input--suffix&quot;]/input[@class=&quot;el-input__inner&quot;]</value>
-      <webElementGuid>40558cf4-cb23-43b7-8994-06afff482d1e</webElementGuid>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[@class=&quot;config-cdb&quot;]/div[@class=&quot;el-card is-never-shadow border in mt-l&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__footer&quot;]/div[1]/div[@class=&quot;el-row el-row--flex p-m w-50&quot;]/div[@class=&quot;el-select bf-select border-top-right-radius-0 border-bottom-right-radius-0 w-100 selectSize&quot;]/div[@class=&quot;el-input el-input--suffix is-focus&quot;]/input[@class=&quot;el-input__inner&quot;]</value>
+      <webElementGuid>6e5e1a6a-8b6f-4594-95f3-b029d25bf5d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[2]</value>
-      <webElementGuid>fcef5ace-2d2b-4507-be3a-0c304c33840f</webElementGuid>
+      <webElementGuid>e1967460-63a5-4c23-84c2-c65dacc53771</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div/div/div/div/input</value>
-      <webElementGuid>c6faf20f-ec6d-46fb-8b70-e9debf147258</webElementGuid>
+      <webElementGuid>8641dc39-7756-42ab-aca1-688d52f0fa56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/input</value>
-      <webElementGuid>2756c3f1-1db3-4c99-8c39-746dda498a4e</webElementGuid>
+      <webElementGuid>75b483f5-51b4-4821-8c41-fbb8536a4a29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Chọn']</value>
-      <webElementGuid>82f4e912-af8a-4cc4-8065-86749f43170e</webElementGuid>
+      <webElementGuid>a48243a5-f756-4028-95f2-8c6828ec4028</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

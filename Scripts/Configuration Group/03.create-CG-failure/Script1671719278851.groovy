@@ -21,14 +21,15 @@ WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/
 
 WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/button_To Configuration Groups'))
 
-WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/div_MariaDB                            10.3                            10.3                      10.4                     Chn phin bn'))
-
 WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/i_Khng c d liu_el-select__caret el-input__icon el-icon-arrow-up'))
 
-WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/li_autocommit'))
+WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/span_auto_increment_offset'))
 
-WebUI.setText(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/input_t tn Configuration Group_el-input__inner'), 
-    '')
+WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/button_Thm mi'))
+
+WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/span_To mi Configuration Group'))
+
+WebUI.delay(1)
 
 WebUI.verifyTextPresent('Tên không được để trống.', true)
 
