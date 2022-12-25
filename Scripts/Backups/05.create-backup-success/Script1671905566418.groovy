@@ -21,13 +21,13 @@ WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/
 
 WebUI.click(findTestObject('Page_Backups - Bizfly Database Dashboard/div_To backup'))
 
-var1 = CustomKeywords.'myPackage.myKeywords.randomString'(1)
+var1 = CustomKeywords.'myPackage.myKeywords.randomString'(255)
 
 WebUI.setText(findTestObject('Page_To backup - Bizfly Database Dashboard/input__el-input__inner'), var1)
 
 WebUI.click(findTestObject('Page_To backup - Bizfly Database Dashboard/button_To backup'))
 
-WebUI.delay(1)
+WebUI.delay(2)
 
 WebUI.verifyTextPresent('Thành công', true)
 

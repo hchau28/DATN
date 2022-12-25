@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>10.delete-backupSchedule-failure</name>
+   <name>04.create-backupSchedule-success</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4b1ec426-d445-4429-9b46-f1e5d7756d53</testCaseGuid>
+   <testCaseGuid>058bd057-c1ee-4b7c-aa3c-ac13371d1167</testCaseGuid>
 </TestCaseEntity>

@@ -29,10 +29,10 @@ WebUI.doubleClick(findTestObject('Page_Khi to Config Group - Bizfly Database Das
 
 WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/button_Thm mi'))
 
-var1 = CustomKeywords.'myPackage.myKeywords.randomString'(4)
+var2 = CustomKeywords.'myPackage.myKeywords.randomString'(4)
 
 WebUI.setText(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/input_t tn Configuration Group_el-input__inner'), 
-    var1)
+    var2)
 
 WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/span_To mi Configuration Group'))
 

@@ -19,10 +19,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>853f93dd-0049-4d35-bddf-5ff7a3f83151</guid>
+      <guid>2672a447-6432-48cc-b827-af2efe9b6727</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Configuration Group/02.create-CG-failure</testCaseId>
+      <testCaseId>Test Cases/Backup Schedule/02.create-backupSchedule-failure</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

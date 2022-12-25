@@ -17,17 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/div_Backups'))
+WebUI.click(findTestObject('Backups schedules/p_Backup Schedules'))
 
-WebUI.click(findTestObject('Page_Backups - Bizfly Database Dashboard/div_To backup'))
+WebUI.click(findTestObject('Page_Backup Schedules - Bizfly Database Dashboard/div_To Backup Schedules'))
 
-var1 = CustomKeywords.'myPackage.myKeywords.randomString'(1)
+WebUI.click(findTestObject('Page_To Backup Schedule - Bizfly Database Dashboard/input_Chn pht_el-input__inner'))
 
-WebUI.setText(findTestObject('Page_To backup - Bizfly Database Dashboard/input__el-input__inner'), var1)
+WebUI.click(findTestObject('Page_To Backup Schedule - Bizfly Database Dashboard/li_15 pht'))
 
-WebUI.click(findTestObject('Page_To backup - Bizfly Database Dashboard/button_To backup'))
+WebUI.click(findTestObject('Page_To Backup Schedule - Bizfly Database Dashboard/button_To Backup Schedules'))
 
-WebUI.delay(1)
-
-WebUI.verifyTextPresent('Thành công', true)
+WebUI.verifyTextPresent('Tên Backup Schedule không được để trống.\n', true)
 

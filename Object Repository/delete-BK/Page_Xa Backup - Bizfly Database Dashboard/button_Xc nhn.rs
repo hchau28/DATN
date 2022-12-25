@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_To Backup Schedules</name>
+   <name>button_Xc nhn</name>
    <tag></tag>
-   <elementGuidId>04c3c9c5-6fd0-45cb-8170-c07547825996</elementGuidId>
+   <elementGuidId>2d00cdc5-37a1-47a6-b14e-8e9064ea627c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.el-button.bf-button.el-button--primary.el-button--default</value>
+         <value>button.el-button.bf-button.el-button--danger.el-button--default</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bedc6679-76d8-4e64-b870-07e975228098</webElementGuid>
+      <webElementGuid>5cb8108e-f2ab-4bc9-ac79-367a821a7ced</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,31 +30,31 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>82db91ba-cafb-4059-9752-6e63433265c5</webElementGuid>
+      <webElementGuid>97bd2b43-59c4-4bc7-9b63-7773349ed473</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>el-button bf-button el-button--primary el-button--default</value>
-      <webElementGuid>069f9364-670c-4570-9289-2c81b1a03062</webElementGuid>
+      <value>el-button bf-button el-button--danger el-button--default</value>
+      <webElementGuid>a6c9aa14-4d8b-4dd2-aa70-934839a06121</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Tạo Backup Schedules </value>
-      <webElementGuid>cddca296-3af1-48a3-a89a-210d40a47517</webElementGuid>
+      <value> Xác nhận </value>
+      <webElementGuid>149c2531-ef49-4b76-8267-9cf409e784df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[2]/div[@class=&quot;el-card is-never-shadow border in mt-l&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/div[1]/div[@class=&quot;el-row is-justify-end is-align-middle el-row--flex&quot;]/button[@class=&quot;el-button bf-button el-button--primary el-button--default&quot;]</value>
-      <webElementGuid>73e1d208-febb-4354-bf94-5f49a346278b</webElementGuid>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;backup-layout&quot;]/div[@class=&quot;router-view&quot;]/div[1]/div[2]/div[@class=&quot;el-card mb-m is-never-shadow border in&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__footer&quot;]/div[@class=&quot;p-m el-row is-justify-end el-row--flex&quot;]/button[@class=&quot;el-button bf-button el-button--danger el-button--default&quot;]</value>
+      <webElementGuid>cce5d47f-761e-4aa6-84c3-1e5ec50bb1a0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,54 +62,54 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[5]</value>
-      <webElementGuid>192c4353-c2c4-48ec-83d1-0d6f558880ee</webElementGuid>
+      <webElementGuid>a9f4cb63-a843-4492-8041-f0ccc1abfa61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div[2]/div[2]/div[6]/div/div/div/div/div/button</value>
-      <webElementGuid>0d7621f8-eddf-41d5-b7aa-d28a248558c8</webElementGuid>
+      <value>//div[@id='app']/div/div[2]/div/div[2]/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>19b7edfc-817d-4de3-abfd-6b8e040dbae6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên Backup Schedule không được để trống.'])[1]/following::button[1]</value>
-      <webElementGuid>1ab24025-bb90-41b4-b6fb-9f842bddb6cd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giá trị không được để trống.'])[1]/following::button[1]</value>
+      <webElementGuid>1f2af860-9cf8-4efd-b08d-eacc70448b32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::button[1]</value>
-      <webElementGuid>48b8ba53-4750-4513-8a06-4f1f1a22b39c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/following::button[1]</value>
+      <webElementGuid>67153d07-c026-4dd9-981e-7f3705e11a98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tài liệu hướng dẫn'])[1]/preceding::button[1]</value>
-      <webElementGuid>a8a69cae-e54e-4899-b21a-f6578b1b2db9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>60390095-865e-4d6a-9285-fe592c32ad2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div/div/div/div/div/button</value>
-      <webElementGuid>848c2e74-6287-4464-980f-e7e2cfafa076</webElementGuid>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>40062116-5a9a-41a9-b5ab-db383c02f397</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = ' Tạo Backup Schedules ' or . = ' Tạo Backup Schedules ')]</value>
-      <webElementGuid>9830b0be-203b-4f97-ada8-0e6b71b287dc</webElementGuid>
+      <value>//button[@type = 'button' and (text() = ' Xác nhận ' or . = ' Xác nhận ')]</value>
+      <webElementGuid>24e005db-a8e1-4c1b-8cdb-37c1892d2b08</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -17,17 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.doubleClick(findTestObject('Page_Database Instances - List DB/div_To Database Instances'))
+WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/div_Backups'))
 
-WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/small_MongoDB'))
+WebUI.click(findTestObject('delete-BK/Page_Backups - Bizfly Database Dashboard/i_Th cng_bf-icon icon-m icon-more-horiz icon-color-default'))
 
-WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/small_HN1'))
+WebUI.click(findTestObject('delete-BK/Page_Backups - Bizfly Database Dashboard/li_Xa'))
 
-var1 = CustomKeywords.'myPackage.myKeywords.randomString'(5)
+WebUI.setText(findTestObject('delete-BK/Page_Xa Backup - Bizfly Database Dashboard/input_OK_el-input__inner'), 'OK')
 
-WebUI.setText(findTestObject('Page_Khi to Database Instance - Create DB/input__el-input__inner'), var1)
+WebUI.click(findTestObject('delete-BK/Page_Xa Backup - Bizfly Database Dashboard/button_Xc nhn'))
 
-WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/span_Xc nhn thng tin khi to'))
-
-WebUI.delay(0)
+WebUI.verifyTextPresent('Thành công', true)
 

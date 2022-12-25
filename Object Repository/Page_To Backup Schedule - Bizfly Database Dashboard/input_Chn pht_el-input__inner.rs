@@ -6,12 +6,12 @@
    <elementGuidId>626192cd-6efb-4475-aecf-3a299453cf86</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.el-col.el-col-6.el-col-offset-0.el-col-pull-0.el-col-push-0.el-col-mobile-24.el-col-large-tablet-12 > div.el-form-item.mb-0.is-required > div.el-form-item__content > div.el-select.bf-select.w-100.selectSize > div.el-input.el-input--suffix > input.el-input__inner</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//input[@type='text'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-col.el-col-6.el-col-offset-0.el-col-pull-0.el-col-push-0.el-col-mobile-24.el-col-large-tablet-12 > div.el-form-item.mb-0.is-required > div.el-form-item__content > div.el-select.bf-select.w-100.selectSize > div.el-input.el-input--suffix > input.el-input__inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6e61142f-1319-4031-afff-e6e9278e5c5b</webElementGuid>
+      <webElementGuid>d697b603-0761-4d3d-9fff-46d5aed06b1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>22df60c0-7173-4a79-a588-422f8e9f51c5</webElementGuid>
+      <webElementGuid>ec4c1208-f4bb-41ef-adff-bcad7e7c446a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>readonly</name>
       <type>Main</type>
       <value>readonly</value>
-      <webElementGuid>46879130-a102-4009-aa7e-2f1a54d3841d</webElementGuid>
+      <webElementGuid>7010854f-e361-453c-8515-73bc33e50337</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>34bb2010-b6ab-4292-b20f-8854ce5791d0</webElementGuid>
+      <webElementGuid>a0f58a00-66ea-49fb-b745-f2691f87a2b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Chọn</value>
-      <webElementGuid>ddc49f9b-d091-4b8e-8a7f-ca410525d19c</webElementGuid>
+      <webElementGuid>dbacc0c7-1021-4b8e-bc20-99fdab60bf3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>el-input__inner</value>
-      <webElementGuid>3f466511-6dda-4c50-92ef-72e57b6fa07a</webElementGuid>
+      <webElementGuid>9c08fe49-95a7-43d2-8f5b-1e087e57d594</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[2]/div[@class=&quot;el-card is-never-shadow border in mb-l&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/div[1]/div[@class=&quot;mt-m el-row is-align-middle el-row--flex&quot;]/form[@class=&quot;el-form w-100&quot;]/div[@class=&quot;el-row&quot;]/div[@class=&quot;el-col el-col-6 el-col-offset-0 el-col-pull-0 el-col-push-0  el-col-mobile-24 el-col-large-tablet-12&quot;]/div[@class=&quot;el-form-item mb-0 is-required&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;el-select bf-select w-100 selectSize&quot;]/div[@class=&quot;el-input el-input--suffix&quot;]/input[@class=&quot;el-input__inner&quot;]</value>
-      <webElementGuid>882cc5b3-e012-4fac-97f6-225a098e2ef1</webElementGuid>
+      <webElementGuid>8b9067ba-df34-4add-adc4-3508a58a6c4a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[6]</value>
-      <webElementGuid>a0508a20-397f-4779-b0e7-1e6571f0b14b</webElementGuid>
+      <webElementGuid>86fb4ac1-5e05-4722-9d36-aa38b316d7b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div[4]/div[2]/div/div/div/div/form/div/div[2]/div/div/div/div[2]/input</value>
-      <webElementGuid>0a5b2dd7-bc6a-4499-bcac-3869d0cf6da7</webElementGuid>
+      <webElementGuid>422df9d4-e733-4811-8618-20609f0f754a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>728d137f-6016-427e-bf12-2e5f04030b8b</webElementGuid>
+      <webElementGuid>16ab7007-1122-4f03-a082-a63f3df93028</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Chọn']</value>
-      <webElementGuid>fa332e72-8338-4800-bbe6-203c52395a97</webElementGuid>
+      <webElementGuid>82dd119d-6fa5-48eb-a212-90f37c1c3081</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -17,17 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/div_Backups'))
-
-WebUI.click(findTestObject('Page_Backups - Bizfly Database Dashboard/div_To backup'))
-
-var1 = CustomKeywords.'myPackage.myKeywords.randomString'(1)
-
-WebUI.setText(findTestObject('Page_To backup - Bizfly Database Dashboard/input__el-input__inner'), var1)
-
-WebUI.click(findTestObject('Page_To backup - Bizfly Database Dashboard/button_To backup'))
-
-WebUI.delay(1)
-
-WebUI.verifyTextPresent('Thành công', true)
-

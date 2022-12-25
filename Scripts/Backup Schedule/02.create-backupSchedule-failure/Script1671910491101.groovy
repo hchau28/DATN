@@ -17,17 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/i_ACTIVE_bf-icon icon-m icon-more-horiz icon-color-default'))
+WebUI.click(findTestObject('Backups schedules/p_Backup Schedules'))
 
-WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/li_Backups'))
+WebUI.click(findTestObject('Page_Backup Schedules - Bizfly Database Dashboard/div_To Backup Schedules'))
 
-WebUI.click(findTestObject('Page_Backups - Bizfly Database Dashboard/i_S bn gi li_bf-icon icon-m icon-more-horiz icon-color-default'))
+WebUI.click(findTestObject('Page_To Backup Schedule - Bizfly Database Dashboard/input_Chn pht_el-input__inner'))
 
-WebUI.click(findTestObject('Page_Backups - Bizfly Database Dashboard/li_Xa Backup Schedules'))
+WebUI.click(findTestObject('Page_To Backup Schedule - Bizfly Database Dashboard/li_5 pht'))
 
-WebUI.setText(findTestObject('Page_Xa Backup Schedule - Bizfly Database Dashboard/input_OK_el-input__inner'), 'OK1')
+WebUI.setText(findTestObject('Page_To Backup Schedule - Bizfly Database Dashboard/input__el-input__inner'), '12')
 
-WebUI.click(findTestObject('Page_Xa Backup Schedule - Bizfly Database Dashboard/div_Xc nhn'))
+WebUI.click(findTestObject('Page_To Backup Schedule - Bizfly Database Dashboard/button_To Backup Schedules'))
 
-WebUI.verifyTextPresent('Vui lòng nhập OK để xác nhận.', true)
+WebUI.verifyTextPresent('Tên Backup Schedule không hợp lệ.\n', true)
 

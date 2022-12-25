@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_To Backup Schedules</name>
+   <tag></tag>
+   <elementGuidId>1461e868-4b88-407f-8b79-f4eb3d9bfa1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div[6]/div/div/div/div/div/button/span/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.el-tooltip.focusing</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c9305bcf-b173-40c3-9879-592683c97b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-tooltip focusing</value>
+      <webElementGuid>b84d6e56-5a0c-4ac0-b521-8dd12e5c2f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>el-tooltip-8446</value>
+      <webElementGuid>08580d83-7099-4c24-80c6-3114cef06a23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>78a2deba-33cb-41ea-bf63-79c790478d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tạo Backup Schedules </value>
+      <webElementGuid>1edfdc53-727d-4a11-b33c-62f03a024de7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[2]/div[@class=&quot;el-card is-never-shadow border in mt-l&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/div[1]/div[@class=&quot;el-row is-justify-end is-align-middle el-row--flex&quot;]/button[@class=&quot;el-button bf-button el-button--primary el-button--default&quot;]/span[1]/div[@class=&quot;button-content&quot;]/span[@class=&quot;el-tooltip focusing&quot;]</value>
+      <webElementGuid>a7611c15-c352-42ca-ad92-08b7fe6a2c83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div[6]/div/div/div/div/div/button/span/div/span</value>
+      <webElementGuid>132081bd-a96e-4185-ba0f-32830951f991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên Backup Schedule không được để trống.'])[1]/following::span[2]</value>
+      <webElementGuid>cacd17e5-aca9-44c1-9f45-cd4c97dd48f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::span[2]</value>
+      <webElementGuid>36c8b726-ca4c-46c4-aa07-1d78ef81f2bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tài liệu hướng dẫn'])[1]/preceding::span[1]</value>
+      <webElementGuid>82f4faf2-571d-45a0-aef6-bb730accecae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[1]</value>
+      <webElementGuid>44bd393f-6690-4ac6-b546-d5d9dbcc70db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tạo Backup Schedules']/parent::*</value>
+      <webElementGuid>8ac17346-b20d-4a45-8038-4ba341f93b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/button/span/div/span</value>
+      <webElementGuid>397a571c-a9ec-4d61-af7b-b71c68d2edfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Tạo Backup Schedules ' or . = ' Tạo Backup Schedules ')]</value>
+      <webElementGuid>6e9b47e0-95b4-4bc6-b913-f500bc9dc81e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

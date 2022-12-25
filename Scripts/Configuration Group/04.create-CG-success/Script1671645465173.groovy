@@ -21,22 +21,22 @@ WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/
 
 WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/button_To Configuration Groups'))
 
-WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/div_MongoDB'))
+WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/div_MariaDB                            10.3                            10.3                      10.4                     Chn phin bn'))
 
 WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/i_Khng c d liu_el-select__caret el-input__icon el-icon-arrow-up'))
 
-WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/li_autocommit'))
+WebUI.doubleClick(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/span_auto_increment_offset'))
 
 WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/button_Thm mi'))
 
-var1 = CustomKeywords.'myPackage.myKeywords.randomString'(46)
+var1 = CustomKeywords.'myPackage.myKeywords.randomString'(5)
 
 WebUI.setText(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/input_t tn Configuration Group_el-input__inner'), 
     var1)
 
-WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/button_To mi Configuration Group'))
+WebUI.click(findTestObject('Page_Khi to Config Group - Bizfly Database Dashboard/span_To mi Configuration Group'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.verifyTextPresent('Thành công', true)
 

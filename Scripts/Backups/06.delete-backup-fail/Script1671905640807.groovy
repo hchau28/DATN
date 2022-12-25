@@ -19,15 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/div_Backups'))
 
-WebUI.click(findTestObject('Page_Backups - Bizfly Database Dashboard/div_To backup'))
+WebUI.click(findTestObject('delete-BK/Page_Backups - Bizfly Database Dashboard/i_Th cng_bf-icon icon-m icon-more-horiz icon-color-default'))
 
-var1 = CustomKeywords.'myPackage.myKeywords.randomString'(1)
+WebUI.click(findTestObject('delete-BK/Page_Backups - Bizfly Database Dashboard/span_Xa'))
 
-WebUI.setText(findTestObject('Page_To backup - Bizfly Database Dashboard/input__el-input__inner'), var1)
+WebUI.setText(findTestObject('delete-BK/Page_Xa Backup - Bizfly Database Dashboard/input_OK_el-input__inner'), 'OK1')
 
-WebUI.click(findTestObject('Page_To backup - Bizfly Database Dashboard/button_To backup'))
+WebUI.click(findTestObject('delete-BK/Page_Xa Backup - Bizfly Database Dashboard/button_Xc nhn'))
 
-WebUI.delay(1)
-
-WebUI.verifyTextPresent('Thành công', true)
+WebUI.verifyTextPresent('Vui lòng nhập OK để xác nhận.\n', true)
 

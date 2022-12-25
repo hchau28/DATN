@@ -6,12 +6,12 @@
    <elementGuidId>5ca9d3a1-1d05-411a-8a56-e601669bf9a0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.bf-input.custom-input.el-input > input.el-input__inner</value>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[4]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@type='text'])[7]</value>
+         <key>CSS</key>
+         <value>div.custom-input.el-input-number > div.el-input > input.el-input__inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>cd214995-f08f-49d2-b1ae-2fc3a763e4b2</webElementGuid>
+      <webElementGuid>f25f5cb9-fc94-4bc9-b9f6-d2e3d5d5926f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>58cb6e6b-ef1f-481a-8b56-692d9ae62d40</webElementGuid>
+      <webElementGuid>87098f07-50c6-4b99-9c2a-2a5155b8123b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,23 +38,23 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>d974f55f-5ebe-49a2-8d31-290f2c5a7e69</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Nhập tên lịch</value>
-      <webElementGuid>58d6c3ef-70da-4582-a4b2-4d50cd7221c6</webElementGuid>
+      <webElementGuid>201f2898-7003-45ad-99d5-81e39c7d6e1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>rows</name>
+      <name>max</name>
       <type>Main</type>
-      <value>2</value>
-      <webElementGuid>3342c8bf-ef90-4f5e-8a0b-560eef879ae1</webElementGuid>
+      <value>100</value>
+      <webElementGuid>7039fd76-4231-4365-9826-128aa748b779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>min</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>3cad41ce-00a6-45c4-8d95-353ae36f37ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,46 +62,86 @@
       <name>class</name>
       <type>Main</type>
       <value>el-input__inner</value>
-      <webElementGuid>c1f984e9-f98f-4511-800a-5b17f996c552</webElementGuid>
+      <webElementGuid>8e55f2e0-50c6-41eb-aaca-dab926fa41b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>spinbutton</value>
+      <webElementGuid>fe4a6845-6c97-4cb8-8eb9-aa9063590888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-valuemax</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>087b7b42-1712-4049-91f7-21086f96d2f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-valuemin</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>d2d5caea-4c3d-4b6e-97c9-2402faa96918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-valuenow</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>43f1ff8d-3421-4887-8bdf-f332bcd552a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7f92f9ab-0404-4ebe-bf21-5c8dc4e8236b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[2]/div[@class=&quot;el-card is-never-shadow border in mb-l&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/div[1]/div[@class=&quot;mt-m el-row is-align-middle el-row--flex&quot;]/form[@class=&quot;el-form w-100&quot;]/div[@class=&quot;el-col el-col-8 el-col-offset-0 el-col-pull-0 el-col-push-0  el-col-mobile-24 el-col-large-tablet-12&quot;]/div[@class=&quot;el-form-item mb-0 is-required&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;bf-input custom-input el-input&quot;]/input[@class=&quot;el-input__inner&quot;]</value>
-      <webElementGuid>56175bc8-4cda-4381-8d89-6cb06cb174f8</webElementGuid>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[2]/div[@class=&quot;el-card is-never-shadow border in mb-l&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/div[1]/div[@class=&quot;mt-m el-row is-align-middle el-row--flex&quot;]/form[@class=&quot;el-form&quot;]/div[@class=&quot;el-form-item mb-0&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;custom-input el-input-number&quot;]/div[@class=&quot;el-input&quot;]/input[@class=&quot;el-input__inner&quot;]</value>
+      <webElementGuid>5130b1b2-2603-4092-b05e-e905072e224f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@type='text'])[7]</value>
-      <webElementGuid>c8ba126e-2f6b-44ee-b916-5ba7690398c9</webElementGuid>
+      <value>(//input[@type='text'])[4]</value>
+      <webElementGuid>fb6fe166-f1cf-4f02-8814-7a6fd92877bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div[2]/div[2]/div[5]/div[2]/div/div/div/div/form/div/div/div/div/input</value>
-      <webElementGuid>ead5b845-a3c5-4247-b079-9064fc3d5a64</webElementGuid>
+      <value>//div[@id='app']/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/form/div/div/div/div/input</value>
+      <webElementGuid>fffc5d52-3a45-44b4-aebd-b2f42239889e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/div[2]/div/div/div/div/form/div/div/div/div/input</value>
-      <webElementGuid>691afafa-b443-4c43-b916-9c42a81f7063</webElementGuid>
+      <value>//form/div/div/div/div/input</value>
+      <webElementGuid>d6ac882e-ee6a-42a4-ad4a-169803a38204</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Nhập tên lịch']</value>
-      <webElementGuid>127e1239-0e2f-4039-bf46-27ae95d05d6b</webElementGuid>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>78abff89-8c9b-48d4-ab2f-6684bc130c4a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
