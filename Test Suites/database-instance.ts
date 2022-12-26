@@ -128,7 +128,7 @@
    <testCaseLink>
       <guid>9b7bb5f0-8611-4148-ae13-cb7fd6761af5</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Database-instance/12.create-backupDB-success</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -153,19 +153,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ad1b1313-b679-4cf8-ab37-ad7e70bcd61b</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/Database-instance/16.create-secondary-node-fail</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>5035041d-e565-4438-857c-dacf53b8b83f</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
       <guid>d6dd181a-25d6-49a1-8ce0-ed40fd913ea2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
@@ -176,6 +163,19 @@
          <type>DEFAULT</type>
          <value></value>
          <variableId>adc3c66c-82c0-4c8a-91e1-92afbd2884cc</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ad1b1313-b679-4cf8-ab37-ad7e70bcd61b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Database-instance/16.create-secondary-node-fail</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5035041d-e565-4438-857c-dacf53b8b83f</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
@@ -230,7 +230,7 @@
    <testCaseLink>
       <guid>a4e54538-563e-4daa-9264-a2e455673789</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Database-instance/25.delete-db-instance-success</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>

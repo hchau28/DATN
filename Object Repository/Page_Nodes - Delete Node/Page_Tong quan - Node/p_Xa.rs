@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Xa</name>
+   <tag></tag>
+   <elementGuidId>e6c041c2-7b80-4fdd-b71d-90ebcc2918c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='/instance/34461cc5-e4e2-465a-b1e5-3f4328b88214/node/606b26b2-8162-44b8-9cc3-652d891aaa58/delete']/span/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6c50aea4-0ea0-47f5-a248-f246b0720b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xóa</value>
+      <webElementGuid>eec27d20-48ec-42de-8456-de3a4d380afd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;/instance/34461cc5-e4e2-465a-b1e5-3f4328b88214/node/606b26b2-8162-44b8-9cc3-652d891aaa58/delete&quot;)/span[@class=&quot;router-link w-100 text-decoration-none&quot;]/div[@class=&quot;el-row is-align-middle el-row--flex&quot;]/p[1]</value>
+      <webElementGuid>57a1cada-dcfd-4736-b707-a0d11ced97dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='/instance/34461cc5-e4e2-465a-b1e5-3f4328b88214/node/606b26b2-8162-44b8-9cc3-652d891aaa58/delete']/span/div/p</value>
+      <webElementGuid>461d015e-6ce1-49d6-8b35-7da90347310d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[4]/following::p[6]</value>
+      <webElementGuid>979af780-80bf-46de-b52d-bbd8829ba3b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mDzAG'])[1]/following::p[6]</value>
+      <webElementGuid>f4a085c8-7ddf-4cc9-8ae4-93363b5531a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mDzAG(Secondary Node)'])[1]/preceding::p[1]</value>
+      <webElementGuid>ca7c3ee1-21cb-4ea1-bd9a-3a9b6b948656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Database Engine:'])[1]/preceding::p[2]</value>
+      <webElementGuid>668d6527-6d5c-4083-a277-9e576ad0c9a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xóa']/parent::*</value>
+      <webElementGuid>80d2815c-3ca6-44af-8b55-bac3f29d2400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/span/div/p</value>
+      <webElementGuid>fd5b066f-8223-4ef9-a04f-2c4c8b336c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Xóa' or . = 'Xóa')]</value>
+      <webElementGuid>63792aae-21ca-42e2-8977-1773a0da7d8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

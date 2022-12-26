@@ -17,17 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
 WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instances/')
-
-WebUI.setText(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/input_Email_username'), 'chauphamthihoang@vccorp.vn')
-
-WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/i_Mt khu_fa fa-eye'))
-
-WebUI.setText(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/input_Mt khu_password'), 'Chau281120')
-
-WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_ng nhp - Bizfly Cloud/button_ng nhp'))
 
 WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/i_ACTIVE_bf-icon icon-m icon-more-horiz icon-color-default'))
 
@@ -41,7 +31,7 @@ WebUI.click(findTestObject('Page_Nodes - Primary Node/i_ACTIVE_bf-icon icon-m ic
 
 WebUI.doubleClick(findTestObject('Page_Nodes - Primary Node/span_Ci t'))
 
-WebUI.click(findTestObject('Page_Nodes - Primary Node/Page_Cai-dat - Doi cau hinh/div_3.41tr  thng                         4.587  gi'))
+WebUI.click(findTestObject('Page_Nodes - Primary Node/Page_Cai-dat - Doi cau hinh/Page_Ci t - Bizfly Database Dashboard/b_1.70tr  thng'))
 
 WebUI.click(findTestObject('Page_Nodes - Primary Node/Page_Cai-dat - Doi cau hinh/span_i cu hnh'))
 
