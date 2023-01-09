@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>06.update-CG-fail</name>
+   <name>01.DB</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>0f7aad62-632c-427b-aef2-095566ab4ac9</testCaseGuid>
+   <testCaseGuid>ed98a52e-b3ca-4baa-b7b7-8d88574e8b1b</testCaseGuid>
 </TestCaseEntity>

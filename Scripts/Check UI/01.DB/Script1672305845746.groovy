@@ -17,17 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/p_Configuration Groups'))
+WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instance/create')
 
-WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/i_Ngy to_bf-icon icon-m icon-more-horiz icon-color-default'))
+WebUI.delay(5)
 
-WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/li_Cp nht'))
-
-WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/i_Gi tr Cu hnh_el-select__caret el-input__icon el-icon-arrow-up'))
-
-WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/span_character_set_connection'))
-
-WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/button_Thm mi'))
-
-WebUI.click(findTestObject('Page_Configuration Groups - Bizfly Database Dashboard/span_Cp nht Configuration Group'))
+WebUI.verifyTextPresent('Chọn Database Engine', true)
 
