@@ -19,11 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instance/create')
 
-WebUI.setText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/input__el-input__inner'), '4444')
-
 WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/div_MongoDB'))
 
 WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/label_HN1'))
+
+WebUI.setText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/input__el-input__inner'), '4444')
 
 WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/span_Xc nhn thng tin khi to'))
 

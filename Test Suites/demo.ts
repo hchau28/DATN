@@ -19,10 +19,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>2672a447-6432-48cc-b827-af2efe9b6727</guid>
+      <guid>facf06c8-5d5d-414e-b853-66a5db5613ad</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Backup Schedule/02.create-backupSchedule-failure</testCaseId>
+      <testCaseId>Test Cases/Check UI/01.DB</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
