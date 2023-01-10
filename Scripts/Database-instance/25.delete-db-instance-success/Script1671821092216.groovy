@@ -21,17 +21,18 @@ WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instances
 
 WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_Database Instances - Bizfly Database D_3ea25a/p_mmmmmmmmm'))
 
-WebUI.delay(2)
+WebUI.delay(1)
 
-WebUI.doubleClick(findTestObject('Page_Tng quan - Bizfly Database Dashboard/div_Xa'))
+WebUI.click(findTestObject('delete_db_instance/Page_Xa - Bizfly Database Dashboard/MenuTab Xoa DB Instance'))
 
 var1 = WebUI.getText(findTestObject('Page_Xa - Bizfly Database Dashboard/b_5wB6O'))
 
 System.out.println(var1)
 
-WebUI.doubleClick(findTestObject('Page_Xoa - DB/div_Xa'))
+//WebUI.doubleClick(findTestObject('Page_Xoa - DB/div_Xa'))
+WebUI.doubleClick(findTestObject('delete_db_instance/Page_Xa - Bizfly Database Dashboard/input confirm Xoa DB Instance'))
 
-WebUI.setText(findTestObject('Page_Xa - Bizfly Database Dashboard/input_Xa cc bn Backups_el-input__inner'), var1)
+WebUI.setText(findTestObject('delete_db_instance/Page_Xa - Bizfly Database Dashboard/input confirm Xoa DB Instance'), var1)
 
 WebUI.doubleClick(findTestObject('Page_Xoa - DB/button_Xoa'))
 

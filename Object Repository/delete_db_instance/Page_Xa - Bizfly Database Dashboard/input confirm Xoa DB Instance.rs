@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__el-input__inner</name>
+   <name>input confirm Xoa DB Instance</name>
    <tag></tag>
-   <elementGuidId>094e9819-d417-4bc5-9a7d-7fa6e8ea8b05</elementGuidId>
+   <elementGuidId>420383e1-7e05-433c-8229-6adf8a485ada</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[6]</value>
+         <value>(//input[@type='text'])[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.el-form-item__content > div.bf-input.el-input > input.el-input__inner</value>
+         <value>div.bf-input.el-input > input.el-input__inner</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>046ee8fa-545b-4b2c-8e57-1a690d4a41db</webElementGuid>
+      <webElementGuid>b1166cad-6839-42c3-a0d1-c33f9c6026d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>812199ce-0acf-4402-b2d2-b71a7f4297c7</webElementGuid>
+      <webElementGuid>0b8c2179-b51a-4cfa-9a5e-2385f39e5667</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>e4cf68ee-7d45-4fb7-94fd-f0af0ec8f580</webElementGuid>
+      <webElementGuid>88c59f93-382c-413f-8ee3-01448ada2f8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Nhập tên Database Instance</value>
-      <webElementGuid>4cb0e85c-1223-4a05-b0b0-7e504d892f9a</webElementGuid>
+      <value>Vui lòng nhập 7RPaF8IQMLx55FtuDJGYylgaVv8Gu1E để xác nhận.</value>
+      <webElementGuid>b73c53d8-b07b-4c04-a911-897489a421c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,39 +54,39 @@
       <name>rows</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>b2fcf07f-f1ea-4b36-9d0a-87b5b1932525</webElementGuid>
+      <webElementGuid>e75e43b8-9f7f-4721-9981-b086b1ad82b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>el-input__inner</value>
-      <webElementGuid>f0402a8b-9796-4a33-8719-841731fafcd2</webElementGuid>
+      <webElementGuid>051af643-eaa0-485a-b48c-c1324b0712e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;project-create-layout&quot;]/div[@class=&quot;router-view px-xl mr-280&quot;]/div[1]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/form[@class=&quot;el-form&quot;]/div[@class=&quot;el-form-item m-0 is-required&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;bf-input el-input&quot;]/input[@class=&quot;el-input__inner&quot;]</value>
-      <webElementGuid>fea499f0-cb45-416e-9917-6ea499be80df</webElementGuid>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;instance-detail-layout&quot;]/div[@class=&quot;router-view px-xl&quot;]/div[1]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-m&quot;]/div[1]/form[@class=&quot;el-form&quot;]/div[@class=&quot;el-form-item m-0 is-required&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;bf-input el-input&quot;]/input[@class=&quot;el-input__inner&quot;]</value>
+      <webElementGuid>ac845f9b-1097-4ab0-b9c2-11f509385b22</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@type='text'])[6]</value>
-      <webElementGuid>eeb69cae-3bb0-49f0-92be-45758e597ff1</webElementGuid>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>097acf49-2a5d-4d68-80fb-bb98220c318b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div[2]/div/div[9]/div[2]/div/div/form/div/div/div/input</value>
-      <webElementGuid>75cba5fa-2c26-447b-94ed-6a21a53d1fdc</webElementGuid>
+      <value>//div[@id='app']/div/div[2]/div/div[3]/div[2]/div/div/form/div/div/div/input</value>
+      <webElementGuid>b9b0e087-f525-4654-9618-5ac883c98d53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,22 +94,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/div/input</value>
-      <webElementGuid>a24700d1-04b3-40f3-9811-de13d0c8aab3</webElementGuid>
+      <webElementGuid>ffaeb569-9593-4af4-9753-18e1f7d6dbcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Nhập tên Database Instance']</value>
-      <webElementGuid>2db7c6e6-e124-4002-ade5-14c916c3b909</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//input[@type='text'])[7]</value>
-      <webElementGuid>d4ac9e06-4194-4921-bd69-28af72cacfad</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Vui lòng nhập 7RPaF8IQMLx55FtuDJGYylgaVv8Gu1E để xác nhận.']</value>
+      <webElementGuid>4d43ff17-9233-43ec-bea6-16f77aacf2de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

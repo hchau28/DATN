@@ -23,7 +23,12 @@ WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dash
 
 WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/label_HN1'))
 
-WebUI.setText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/input__el-input__inner'), '4444')
+WebUI.doubleClick(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/Page_Khi to Database Instance - Bizfly Database Dashboard/input Nhap ten Database Instance'))
+
+WebUI.delay(1)
+
+WebUI.setText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/Page_Khi to Database Instance - Bizfly Database Dashboard/input Nhap ten Database Instance'), 
+    '1234')
 
 WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/span_Xc nhn thng tin khi to'))
 

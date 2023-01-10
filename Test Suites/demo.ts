@@ -26,21 +26,27 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ca90cde4-78ea-431c-952e-2bbe9a346fbf</guid>
+      <guid>6d06c895-4c82-4584-ba07-a3de1a298d9d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Database-instance/03.create-db-failure-3</testCaseId>
+      <testCaseId>Test Cases/Database-instance/02.create-db-failure-2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>55066fc5-dcf8-495b-b43a-b4aeaa91f274</guid>
+      <guid>c1fce756-8a6f-480d-8b32-0a0231706cfa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Database-instance/06.create-mongoDB-success</testCaseId>
+      <testCaseId>Test Cases/Database-instance/09.create-mariaDB-success</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f3229533-47f9-4256-8869-7d291933cca3</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>155448c1-2b70-44b4-870b-38c8743b235a</guid>
+      <guid>28c38087-0270-4645-8f13-7a8051efcb2e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Database-instance/25.delete-db-instance-success</testCaseId>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tab Xoa DB</name>
+   <tag></tag>
+   <elementGuidId>04ada85a-b397-4210-9d0f-3eac5cc0a0e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='/instance/6ce8af99-4138-4e73-a93f-67156d672e5a/delete']/span/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b0547623-30b6-405d-a12a-6ac3e0839e15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xóa</value>
+      <webElementGuid>daabb35c-216b-4a51-9805-f5850ea48f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;/instance/6ce8af99-4138-4e73-a93f-67156d672e5a/delete&quot;)/span[@class=&quot;router-link w-100 text-decoration-none&quot;]/div[@class=&quot;el-row is-align-middle el-row--flex&quot;]/p[1]</value>
+      <webElementGuid>33b33eaf-c844-4aa7-a75d-7494fe331d64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='/instance/6ce8af99-4138-4e73-a93f-67156d672e5a/delete']/span/div/p</value>
+      <webElementGuid>eb84010f-a609-4391-95ab-bd701e988d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[3]/following::p[5]</value>
+      <webElementGuid>09c81134-4572-4284-bcae-ee1ba6a79c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z4DQqN3gnXxYR4LMCRLBWAtpBoNLloF'])[1]/following::p[5]</value>
+      <webElementGuid>e252ef78-a43e-4916-91c3-e0bde0752cea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z4DQqN3gnXxYR4LMCRLBWAtpBoNLloF'])[2]/preceding::p[1]</value>
+      <webElementGuid>8ead256a-7edf-47d4-b7a6-6ed35b532ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Database Engine:'])[1]/preceding::p[2]</value>
+      <webElementGuid>38d65ca8-de37-4d16-bab9-b6ff1f7f821f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xóa']/parent::*</value>
+      <webElementGuid>ca2587c7-bef2-4f5b-9d9f-63c8ca4d7b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/span/div/p</value>
+      <webElementGuid>66daf778-7d02-4595-8d39-e42e7d4af7f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Xóa' or . = 'Xóa')]</value>
+      <webElementGuid>d5cd160a-1654-434e-92a6-e4d1ae082b12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
