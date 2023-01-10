@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>03.create-db-failure-3</name>
+   <name>UI-create-db</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>b77924c8-6433-480b-b3e0-dea1645f4d26</testCaseGuid>
+   <testCaseGuid>f866760f-93c7-4301-bd50-fbeac01886b5</testCaseGuid>
 </TestCaseEntity>

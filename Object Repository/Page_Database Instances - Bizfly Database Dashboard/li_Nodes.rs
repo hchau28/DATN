@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Nodes</name>
+   <tag></tag>
+   <elementGuidId>128ab80b-1e74-4d12-85cd-d8c8260b8294</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dropdown-menu-1536']/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c6e0c28d-5552-4b88-ac0c-8927cea397af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>b085216f-7699-48b5-a545-a73cb8e5d635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-dropdown-menu__item bf-dropdown-item</value>
+      <webElementGuid>bd63d169-6d56-40aa-968d-2dc5077f4a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nodes</value>
+      <webElementGuid>c3bca212-3d27-490a-9914-0397969e08fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-menu-1536&quot;)/li[@class=&quot;el-dropdown-menu__item bf-dropdown-item&quot;]</value>
+      <webElementGuid>58a48ff4-6840-4bbf-adbb-de22a602df50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dropdown-menu-1536']/li[3]</value>
+      <webElementGuid>8729218d-f69b-4297-b3e3-97ec47ece6df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Backups'])[6]/following::li[1]</value>
+      <webElementGuid>7ec6e9fd-880f-44e6-9458-9ddf71588fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tổng quan'])[5]/following::li[2]</value>
+      <webElementGuid>b2566aef-2e97-47b2-9bda-23039157d8c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cài đặt'])[5]/preceding::li[1]</value>
+      <webElementGuid>d8fa2dc5-8fa9-46e0-bc37-738b095f659d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/ul/li[3]</value>
+      <webElementGuid>8725673c-3801-4e71-bdad-ab82a68dafbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Nodes' or . = 'Nodes')]</value>
+      <webElementGuid>3164c917-3754-4a0b-86c3-bf527fdce038</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

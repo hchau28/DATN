@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Z2EEG</name>
+   <tag></tag>
+   <elementGuidId>d516e7dc-0200-4089-9d2d-e9f05a0bc59c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-row.el-row--flex > p.text-limit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div/div/div/div[3]/table/tbody/tr/td/div/div/a/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5c0462f9-0d33-40c4-ba14-f2d2b5d42d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-limit</value>
+      <webElementGuid>2a77130f-8c71-46e5-9243-ed687a6cf36b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Z2EEG</value>
+      <webElementGuid>03005d4e-c7b8-4e9e-9106-98b51b309761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@bizfly/cloud-database&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;list-layout&quot;]/div[@class=&quot;router-view&quot;]/div[@class=&quot;instances&quot;]/div[@class=&quot;el-card is-never-shadow border in&quot;]/div[@class=&quot;el-card__body&quot;]/div[@class=&quot;el-card__content p-0&quot;]/div[1]/div[@class=&quot;content-slot pt-m&quot;]/div[@class=&quot;el-table el-table--fit el-table--scrollable-x el-table--enable-row-hover el-table--enable-row-transition bf-table-action&quot;]/div[@class=&quot;el-table__body-wrapper is-scrolling-left&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_1_column_1&quot;]/div[@class=&quot;cell&quot;]/div[@class=&quot;bf-link el-tooltip bf-link--default&quot;]/a[@class=&quot;text-limit&quot;]/div[@class=&quot;el-row el-row--flex&quot;]/p[@class=&quot;text-limit&quot;]</value>
+      <webElementGuid>ced089f3-ca53-4c7b-a3da-0fde2ea9ed3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div/div/div/div[3]/table/tbody/tr/td/div/div/a/div/p</value>
+      <webElementGuid>be53d9b7-fb25-49f8-a46e-689468601087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thời gian'])[1]/following::p[1]</value>
+      <webElementGuid>c9f6fab3-4eb2-4426-ab03-d4d63a4fbd9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trạng thái'])[1]/following::p[1]</value>
+      <webElementGuid>c74f709c-b282-433d-a61c-2cdbce1ed424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Không'])[1]/preceding::p[2]</value>
+      <webElementGuid>0d5f918e-3608-4427-bfaa-6c6378ad7320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIVE'])[1]/preceding::p[2]</value>
+      <webElementGuid>fbc33a72-01a9-4142-8e46-c3836285f034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Z2EEG']/parent::*</value>
+      <webElementGuid>945e27d6-c6f7-4976-bf20-077cc41a1ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/a/div/p</value>
+      <webElementGuid>0e3d9d4b-1e31-4063-95df-4c1c8ac4a0d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Z2EEG' or . = 'Z2EEG')]</value>
+      <webElementGuid>f570adfb-2d16-4b41-8e1f-f0532cb402ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

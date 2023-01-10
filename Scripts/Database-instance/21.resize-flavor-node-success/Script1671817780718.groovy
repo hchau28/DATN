@@ -23,13 +23,15 @@ WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/
 
 WebUI.delay(1)
 
-WebUI.doubleClick(findTestObject('Page_Database Instances - List DB/span_Nodes'))
+WebUI.doubleClick(findTestObject('Page_Database Instances - Bizfly Database Dashboard/p_Z2EEG'))
+
+WebUI.click(findTestObject('Page_Tng quan - Bizfly Database Dashboard/div_Nodes'))
 
 CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Nodes - Primary Node/div_Primary Node'), 'Primary Node')
 
 WebUI.click(findTestObject('Page_Nodes - Primary Node/i_ACTIVE_bf-icon icon-m icon-more-horiz icon-color-default'))
 
-WebUI.doubleClick(findTestObject('Page_Nodes - Primary Node/span_Ci t'))
+WebUI.doubleClick(findTestObject('Page_Nodes - Bizfly Database Dashboard/span_Ci t'))
 
 WebUI.delay(2)
 

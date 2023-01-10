@@ -19,7 +19,29 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instance/create')
 
-WebUI.delay(5)
+WebUI.delay(3)
+
+WebUI.verifyTextPresent('Khởi tạo Database Instance', true)
 
 WebUI.verifyTextPresent('Chọn Database Engine', true)
+
+WebUI.verifyTextPresent('Giá ước tính hàng tháng', true)
+
+WebUI.verifyTextPresent('Primary Node', true)
+
+WebUI.verifyTextPresent('Chọn cấu hình', true)
+
+WebUI.verifyTextPresent('Dung lượng lưu trữ', true)
+
+WebUI.verifyTextPresent('Data center', true)
+
+WebUI.verifyTextPresent('Sử dụng Secondary Node', true)
+
+WebUI.verifyTextPresent('Configuration Group', true)
+
+WebUI.verifyTextPresent('Network', true)
+
+WebUI.verifyTextPresent('Tên Database Instance', true)
+
+WebUI.verifyTextPresent('Xác nhận thông tin khởi tạo', true)
 

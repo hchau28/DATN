@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Nodes</name>
+   <tag></tag>
+   <elementGuidId>fed8e444-36a8-4887-9674-cf84360a60a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='/instance/6637c9b7-c694-4997-9792-ed4ce6453146/nodes']/span/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6c045aa7-893b-4343-b8bf-40bb4f391292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nodes</value>
+      <webElementGuid>e7279d2f-e75c-4b35-be22-908198f0b8e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;/instance/6637c9b7-c694-4997-9792-ed4ce6453146/nodes&quot;)/span[@class=&quot;router-link w-100 text-decoration-none&quot;]/div[@class=&quot;el-row is-align-middle el-row--flex&quot;]/p[1]</value>
+      <webElementGuid>0e086cb4-40d1-416a-a71a-0a5d22e5977d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='/instance/6637c9b7-c694-4997-9792-ed4ce6453146/nodes']/span/div/p</value>
+      <webElementGuid>e001f0b8-c02a-4d10-bc65-ed909c170c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[3]/following::p[3]</value>
+      <webElementGuid>b919cbf6-53bf-4039-8b6e-eb4418a8e9ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z2EEG'])[1]/following::p[3]</value>
+      <webElementGuid>27cdbee9-64e9-4088-b5b9-5d5474eed7f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z2EEG'])[2]/preceding::p[3]</value>
+      <webElementGuid>7b20dbbe-1ca5-42f9-a7dd-5bad4ce5f657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Database Engine:'])[1]/preceding::p[4]</value>
+      <webElementGuid>265bf10e-802c-4c84-bea8-e9b9b8d60df2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nodes']/parent::*</value>
+      <webElementGuid>8638e998-7c78-4ba1-bbcb-7285dba5c9ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span/div/p</value>
+      <webElementGuid>56b4ca54-1554-4b9f-a461-1de96f15d90f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Nodes' or . = 'Nodes')]</value>
+      <webElementGuid>c9f9aff6-0d76-4727-84b4-ef747cfa18e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

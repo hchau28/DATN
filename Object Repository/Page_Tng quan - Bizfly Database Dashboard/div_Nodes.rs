@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nodes</name>
+   <tag></tag>
+   <elementGuidId>09f66a0f-547b-4435-9f09-a3a86fccf02a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='/instance/6637c9b7-c694-4997-9792-ed4ce6453146/nodes']/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c30776e3-8ec8-4f01-8587-c69e06813fe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-row is-align-middle el-row--flex</value>
+      <webElementGuid>e753c3ee-ca28-4d7f-8042-d5cea352a06c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nodes  </value>
+      <webElementGuid>2a391840-51d4-4a53-a135-e6a843d24e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;/instance/6637c9b7-c694-4997-9792-ed4ce6453146/nodes&quot;)/span[@class=&quot;router-link w-100 text-decoration-none&quot;]/div[@class=&quot;el-row is-align-middle el-row--flex&quot;]</value>
+      <webElementGuid>4510e469-120d-4142-ab81-08a8c221c3ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='/instance/6637c9b7-c694-4997-9792-ed4ce6453146/nodes']/span/div</value>
+      <webElementGuid>12f7b26a-5faa-4175-b5b5-50916cea25d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[3]/following::div[4]</value>
+      <webElementGuid>af5ac842-019f-4fe9-aa05-a08cd59ca427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z2EEG'])[1]/following::div[4]</value>
+      <webElementGuid>b93ed528-66f1-46f5-9b68-e1925b7272bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z2EEG'])[2]/preceding::div[6]</value>
+      <webElementGuid>3321e37b-4522-4cde-8060-b9711d14569e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Database Engine:'])[1]/preceding::div[8]</value>
+      <webElementGuid>8e02a700-8243-475f-9f38-35e043af330f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span/div</value>
+      <webElementGuid>542d74f6-e477-4ede-b293-a62b5c146d67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nodes  ' or . = 'Nodes  ')]</value>
+      <webElementGuid>be020f9c-b369-4748-b80e-3ca916d98666</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instance/create')
 
+WebUI.refresh()
+
 WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/div_MongoDB'))
 
 WebUI.click(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/span_cng sau khi tng s khng th gim_el-checkbox__inner'))
@@ -38,17 +40,15 @@ var1 = CustomKeywords.'myPackage.myKeywords.randomString'(5)
 WebUI.setText(findTestObject('Page_Khi to Database Instance - Create DB/Input nhap name db - Create DB/input__el-input__inner'), 
     var1)
 
-WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/span_Xc nhn thng tin khi to'))
+WebUI.doubleClick(findTestObject('Page_Khi to Database Instance - Create DB/span_Xc nhn thng tin khi to'))
 
 WebUI.verifyTextPresent('Xác nhận mua gói cước', true)
 
-WebUI.delay(3)
+WebUI.delay(4)
 
-WebUI.click(findTestObject('Object Repository/Page_Khi to Database Instance - Bizfly Data_228464/button_Thanh ton'))
+WebUI.doubleClick(findTestObject('Page_Khi to Database Instance - Create DB/div_Thanh ton'))
 
-WebUI.delay(3)
+WebUI.delay(4)
 
 WebUI.verifyTextPresent('Thành công ', true)
-
-WebUI.closeBrowser()
 

@@ -23,7 +23,7 @@ WebUI.click(findTestObject('Object Repository/delete_db_instance/Page_Database I
 
 WebUI.delay(2)
 
-WebUI.doubleClick(findTestObject('Page_Tng quan - Bizfly Database Dashboard/p_Xa'))
+WebUI.doubleClick(findTestObject('Page_Tng quan - Bizfly Database Dashboard/div_Xa'))
 
 var1 = WebUI.getText(findTestObject('Page_Xa - Bizfly Database Dashboard/b_5wB6O'))
 
@@ -36,8 +36,6 @@ WebUI.setText(findTestObject('Page_Xa - Bizfly Database Dashboard/input_Xa cc bn
 WebUI.doubleClick(findTestObject('Page_Xoa - DB/button_Xoa'))
 
 WebUI.click(findTestObject('Page_Xoa - DB/div_Xoa'))
-
-WebUI.delay(3)
 
 WebUI.verifyTextPresent('Thành công', true)
 

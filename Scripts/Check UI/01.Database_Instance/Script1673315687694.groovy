@@ -19,29 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('https://beta.manage.bizflycloud.vn/cloud-database/instance/create')
 
-WebUI.refresh()
+WebUI.delay(5)
 
-WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/small_MongoDB'))
+WebUI.verifyTextPresent('Database Instances', true)
 
-WebUI.doubleClick(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/div_4 vCPU  8 GB RAM'))
+WebUI.verifyTextPresent('+ Tạo Database Instances', true)
 
-WebUI.doubleClick(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/div_80 GB'))
-
-WebUI.doubleClick(findTestObject('Page_Khi to Database Instance - Create DB/small_HN1'))
-
-var1 = CustomKeywords.'myPackage.myKeywords.randomString'(31)
-
-WebUI.setText(findTestObject('Page_Khi to Database Instance - Bizfly Database Dashboard/input__el-input__inner'), var1)
-
-WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/span_Xc nhn thng tin khi to'))
-
-WebUI.verifyTextPresent('Xác nhận mua gói cước', true)
-
-WebUI.click(findTestObject('Page_Khi to Database Instance - Create DB/div_Thanh ton'))
-
-WebUI.delay(4)
-
-WebUI.verifyTextPresent('Thành công', true)
-
-WebUI.closeBrowser()
+WebUI.verifyTextPresent('Sử dụng kết hợp dịch vụ Cloud Database', true)
 

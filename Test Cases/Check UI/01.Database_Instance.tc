@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>03.create-db-failure-3</name>
+   <name>01.Database_Instance</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>b77924c8-6433-480b-b3e0-dea1645f4d26</testCaseGuid>
+   <testCaseGuid>ed98a52e-b3ca-4baa-b7b7-8d88574e8b1b</testCaseGuid>
 </TestCaseEntity>

@@ -23,7 +23,7 @@ WebUI.click(findTestObject('Page_Database Instances - Bizfly Database Dashboard/
 
 WebUI.delay(1)
 
-WebUI.doubleClick(findTestObject('Page_Database Instances - List DB/span_Nodes'))
+WebUI.doubleClick(findTestObject('Page_Database Instances - Bizfly Database Dashboard/li_Nodes'))
 
 CustomKeywords.'myPackage.myKeywords.checkTextExists'(findTestObject('Page_Nodes - Primary Node/div_Primary Node'), 'Primary Node')
 
